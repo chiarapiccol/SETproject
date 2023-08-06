@@ -1,0 +1,173 @@
+id;country;subCommodity;year2008;year2009;year2010;year2011;year2012;year2013;year2014;year2015;year2016;year2017;year2018;eip;mat
+1;Austria;Cerium compounds;2702.0;2035.0;1936.0;1167.0;888.0;1102.0;946.0;1726.0;2276.0;1239.0;0.0;e;ree
+2;Austria;Metals;373.0;244.0;258.0;452.0;500.0;532.0;475.0;393.0;469.0;449.0;30.0;e;ree
+3;Austria;Other rare earth compounds;8508.0;8437.0;8658.0;4902.0;5696.0;6166.0;7552.0;7273.0;4955.0;4735.0;100.0;e;ree
+4;Belgium;Cerium compounds;nan;nan;nan;nan;nan;nan;189.0;83.0;136.0;178.0;230.0;e;ree
+5;Belgium;Metals;299.0;273.0;476.0;110.0;134.0;171.0;202.0;50.0;70.0;44.0;20.0;e;ree
+6;Belgium;Other rare earth compounds;nan;nan;nan;nan;nan;nan;90.0;243.0;239.0;105.0;4.0;e;ree
+7;Belgium;Rare earth compounds;408.0;335.0;332.0;265.0;141.0;180.0;nan;nan;nan;nan;nan;e;ree
+8;Czech Republic;Rare earth compounds;8.0;3.0;6.0;2.0;0.0;2.0;2.0;2.0;7.0;10.0;12.0;e;ree
+9;Estonia;Cerium compounds;nan;nan;nan;nan;nan;nan;1718.0;1854.0;2337.0;1854.0;1985.0;e;ree
+10;Estonia;Metals;1.0;1.0;1.0;0.0;42.0;77.0;nan;nan;nan;nan;nan;e;ree
+11;Estonia;Other rare earth compounds;nan;nan;nan;nan;nan;nan;1084.0;1116.0;1048.0;1168.0;1140.0;e;ree
+12;Estonia;Rare earth compounds;2916.0;2679.0;1686.0;1124.0;3210.0;3482.0;nan;nan;nan;nan;nan;e;ree
+13;Finland;Rare earth compounds;103.0;0.0;44.0;67.0;0.0;84.0;86.0;10.0;58.0;82.0;378.0;e;ree
+14;France;Metals;11.0;3.0;8.0;11.0;12.0;14.0;10.0;21.0;17.0;18.0;12.0;e;ree
+15;France;Rare earth compounds;1854.0;1244.0;3411.0;2789.0;2097.0;1878.0;843.0;908.0;982.0;882.0;373.0;e;ree
+16;Germany;Cerium compounds;nan;nan;nan;nan;nan;nan;414.0;625.0;515.0;477.0;479.0;e;ree
+17;Germany;Ferro-cerium&other pyrophoric alloys;nan;nan;nan;5.0;nan;nan;nan;nan;nan;nan;nan;e;ree
+18;Germany;Metals;3.0;19.0;25.0;29.0;10.0;9.0;12.0;20.0;6.0;10.0;30.0;e;ree
+19;Germany;Other rare earth compounds;nan;nan;nan;nan;nan;nan;137.0;144.0;179.0;271.0;223.0;e;ree
+20;Germany;Rare earth compounds;188.0;652.0;601.0;660.0;699.0;319.0;nan;nan;nan;nan;nan;e;ree
+21;Hungary;Cerium compounds;nan;nan;nan;nan;nan;nan;nan;5.0;1.0;1.0;0.0;e;ree
+22;Ireland, Republic of;Rare earth compounds;9.0;7.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;ree
+23;Italy;Cerium compounds;nan;nan;nan;nan;nan;nan;47.0;44.0;47.0;81.0;90.0;e;ree
+24;Italy;Ferro-cerium&other pyrophoric alloys;nan;nan;nan;3.0;nan;nan;nan;nan;nan;nan;nan;e;ree
+25;Italy;Metals;112.0;78.0;101.0;145.0;111.0;100.0;160.0;17.0;1.0;0.0;0.0;e;ree
+26;Italy;Other rare earth compounds;nan;nan;nan;nan;nan;nan;203.0;180.0;185.0;229.0;127.0;e;ree
+27;Italy;Rare earth compounds;153.0;167.0;236.0;322.0;353.0;319.0;nan;nan;nan;nan;nan;e;ree
+28;Lithuania;Cerium compounds;3.0;8.0;12.0;10.0;7.0;9.0;5.0;4.0;7.0;5.0;6.0;e;ree
+29;Netherlands;Cerium compounds;nan;nan;nan;nan;nan;nan;180.0;62.0;60.0;194.0;238.0;e;ree
+30;Netherlands;Ferro-cerium&other pyrophoric alloys;19.0;44.0;49.0;18.0;nan;nan;nan;nan;nan;nan;nan;e;ree
+31;Netherlands;Metals;202.0;135.0;86.0;70.0;163.0;2688.0;142.0;308.0;361.0;347.0;423.0;e;ree
+32;Netherlands;Other rare earth compounds;nan;nan;nan;nan;nan;nan;43.0;89.0;166.0;45.0;68.0;e;ree
+33;Netherlands;Rare earth compounds;131.0;150.0;177.0;327.0;341.0;256.0;nan;nan;nan;nan;nan;e;ree
+34;North Macedonia;Rare earth compounds;nan;nan;nan;nan;nan;nan;nan;0.0;8.0;2.0;5.0;e;ree
+35;Norway;Metals;1.0;105.0;0.0;19.0;5.0;54.0;nan;nan;nan;nan;nan;e;ree
+36;Norway;Other rare earth compounds;21.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;ree
+37;Norway;Rare earth compounds;nan;21.0;30.0;23.0;13.0;35.0;15.0;21.0;26.0;20.0;17.0;e;ree
+38;Poland;Cerium compounds;8.0;4.0;7.0;86.0;1.0;9.0;20.0;14.0;4.0;20.0;21.0;e;ree
+39;Poland;Other rare earth compounds;22.0;0.0;4.0;66.0;3.0;4.0;5.0;3.0;4.0;80.0;1.0;e;ree
+40;Portugal;Other rare earth compounds;nan;20.0;9.0;2.0;nan;nan;nan;nan;nan;nan;nan;e;ree
+41;Slovenia;Cerium compounds;nan;nan;nan;nan;3.0;0.0;2.0;7.0;2.0;3.0;1.0;e;ree
+42;Slovenia;Metals;nan;nan;nan;7.0;2.0;1.0;3.0;4.0;6.0;1.0;1.0;e;ree
+43;Slovenia;Other rare earth compounds;nan;nan;nan;nan;nan;nan;nan;nan;1.0;26.0;10.0;e;ree
+44;Spain;Cerium compounds;8.0;13.0;51.0;62.0;8.0;25.0;38.0;32.0;46.0;56.0;18.0;e;ree
+45;Spain;Metals;50.0;0.0;97.0;51.0;1.0;2.0;2.0;83.0;22.0;2.0;22.0;e;ree
+46;Spain;Other rare earth compounds;17.0;5.0;34.0;32.0;9.0;9.0;6.0;5.0;11.0;20.0;11.0;e;ree
+47;Sweden;Cerium compounds;nan;1.0;9.0;0.0;5.0;3.0;3.0;16.0;0.0;4.0;2.0;e;ree
+48;Switzerland;Cerium compounds;1.0;1.0;2.0;9.0;5.0;3.0;nan;nan;nan;nan;nan;e;ree
+49;Switzerland;Other rare earth compounds;1.0;26.0;1.0;1.0;5.0;1.0;nan;nan;nan;nan;nan;e;ree
+50;Switzerland;Rare earth compounds;nan;nan;nan;nan;nan;nan;5.0;5.0;5.0;3.0;4.0;e;ree
+51;Turkey;Cerium compounds;27.0;8.0;5.0;10.0;5.0;9.0;23.0;21.0;24.0;23.0;37.0;e;ree
+52;Turkey;Other rare earth compounds;nan;nan;nan;nan;0.0;50.0;nan;0.0;5.0;0.0;1.0;e;ree
+53;United Kingdom;Cerium compounds;73.0;105.0;182.0;149.0;273.0;48.0;24.0;280.0;38.0;775.0;151.0;e;ree
+54;United Kingdom;Ferro-cerium&other pyrophoric alloys;7.0;6.0;37.0;48.0;nan;nan;152.0;47.0;1.0;25.0;50.0;e;ree
+55;United Kingdom;Metals;237.0;54.0;46.0;272.0;54.0;65.0;18.0;17.0;9.0;13.0;12.0;e;ree
+56;United Kingdom;Other rare earth compounds;622.0;459.0;614.0;347.0;214.0;220.0;275.0;259.0;165.0;278.0;356.0;e;ree
+57;Austria;Cerium compounds;3487.0;1985.0;1766.0;1310.0;696.0;979.0;765.0;1006.0;905.0;989.0;70.0;i;ree
+58;Austria;Metals;561.0;269.0;550.0;325.0;442.0;595.0;429.0;492.0;643.0;672.0;30.0;i;ree
+59;Austria;Other rare earth compounds;3589.0;2471.0;3375.0;1646.0;802.0;1630.0;1973.0;2170.0;2141.0;1510.0;100.0;i;ree
+60;Belgium;Cerium compounds;258.0;419.0;323.0;289.0;146.0;204.0;401.0;129.0;206.0;142.0;244.0;i;ree
+61;Belgium;Ferro-cerium&other pyrophoric alloys;3.0;62.0;2.0;0.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+62;Belgium;Metals;259.0;323.0;411.0;205.0;136.0;205.0;6.0;8.0;16.0;17.0;69.0;i;ree
+63;Belgium;Other rare earth compounds;142.0;292.0;172.0;58.0;41.0;52.0;19.0;131.0;196.0;76.0;11.0;i;ree
+64;Bulgaria;Metals;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+65;Croatia;Ferro-cerium&other pyrophoric alloys;nan;87.0;106.0;133.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+66;Cyprus;Cerium compounds;0.0;0.0;24.0;0.0;16.0;nan;nan;nan;nan;nan;nan;i;ree
+67;Cyprus;Ferro-cerium&other pyrophoric alloys;0.0;nan;18.0;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+68;Czech Republic;Cerium compounds;nan;nan;nan;nan;nan;nan;67.0;65.0;39.0;73.0;54.0;i;ree
+69;Czech Republic;Ferro-cerium&other pyrophoric alloys;5.0;5.0;6.0;2.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+70;Czech Republic;Metals;0.0;0.0;13.0;35.0;nan;nan;1.0;1.0;2.0;11.0;1.0;i;ree
+71;Czech Republic;Other rare earth compounds;nan;nan;nan;nan;nan;nan;207.0;193.0;454.0;190.0;162.0;i;ree
+72;Czech Republic;Rare earth compounds;155.0;124.0;131.0;117.0;344.0;190.0;nan;nan;nan;nan;nan;i;ree
+73;Denmark;Cerium compounds;11.0;734.0;15.0;16.0;19.0;16.0;8.0;12.0;2.0;1.0;0.0;i;ree
+74;Denmark;Metals;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+75;Denmark;Other rare earth compounds;10.0;36.0;19.0;6.0;3.0;20.0;20.0;11.0;20.0;0.0;47.0;i;ree
+76;Estonia;Cerium compounds;0.0;0.0;24.0;501.0;545.0;300.0;235.0;0.0;5651.0;4278.0;5100.0;i;ree
+77;Estonia;Other rare earth compounds;4469.0;4125.0;2105.0;3616.0;4499.0;4494.0;6057.0;7872.0;7.0;0.0;2.0;i;ree
+78;Finland;Cerium compounds;101.0;57.0;72.0;52.0;18.0;23.0;14.0;24.0;22.0;24.0;34.0;i;ree
+79;Finland;Ferro-cerium&other pyrophoric alloys;0.0;1.0;2.0;2.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+80;Finland;Other rare earth compounds;7.0;9.0;8.0;14.0;5.0;3.0;1.0;2.0;6.0;10.0;24.0;i;ree
+81;France;Cerium compounds;9116.0;6112.0;5687.0;1867.0;3940.0;1900.0;500.0;500.0;300.0;200.0;300.0;i;ree
+82;France;Ferro-cerium&other pyrophoric alloys;3.0;26.0;83.0;388.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+83;France;Metals;447.0;402.0;372.0;506.0;280.0;338.0;191.0;161.0;179.0;297.0;196.0;i;ree
+84;France;Other rare earth compounds;768.0;874.0;1408.0;1359.0;1301.0;1396.0;574.0;623.0;693.0;563.0;466.0;i;ree
+85;Germany;Cerium compounds;673.0;448.0;1006.0;844.0;553.0;862.0;1601.0;2783.0;3459.0;2377.0;1164.0;i;ree
+86;Germany;Ferro-cerium&other pyrophoric alloys;6.0;2.0;6.0;14.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+87;Germany;Metals;430.0;106.0;459.0;263.0;290.0;267.0;276.0;296.0;340.0;300.0;327.0;i;ree
+88;Germany;Other rare earth compounds;10192.0;7755.0;9999.0;6904.0;4155.0;5862.0;5618.0;5693.0;5879.0;6631.0;8237.0;i;ree
+89;Greece;Ferro-cerium&other pyrophoric alloys;0.0;0.0;65.0;62.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+90;Greece;Metals;20.0;68.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+91;Greece;Rare earth compounds;1.0;0.0;3.0;4.0;11.0;12.0;3.0;1.0;4.0;8.0;7.0;i;ree
+92;Hungary;Cerium compounds;55.0;36.0;38.0;33.0;31.0;20.0;42.0;19.0;14.0;11.0;9.0;i;ree
+93;Hungary;Metals;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+94;Hungary;Other rare earth compounds;62.0;26.0;31.0;23.0;31.0;11.0;15.0;7.0;54.0;29.0;26.0;i;ree
+95;Iceland;Metals;85.0;87.0;350.0;77.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+96;Iceland;Other rare earth compounds;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+97;Ireland, Republic of;Rare earth compounds;21.0;67.0;8.0;85.0;nan;nan;4.0;1.0;2.0;18.0;15.0;i;ree
+98;Italy;Cerium compounds;710.0;414.0;597.0;616.0;337.0;565.0;220.0;170.0;296.0;249.0;237.0;i;ree
+99;Italy;Ferro-cerium&other pyrophoric alloys;2.0;5.0;10.0;3.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+100;Italy;Metals;144.0;87.0;124.0;108.0;30.0;62.0;96.0;103.0;4.0;3.0;8.0;i;ree
+101;Italy;Other rare earth compounds;431.0;258.0;303.0;307.0;257.0;232.0;276.0;325.0;422.0;265.0;161.0;i;ree
+102;Latvia;Other rare earth compounds;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+103;Lithuania;Cerium compounds;nan;nan;nan;nan;nan;nan;4.0;1.0;7.0;6.0;3.0;i;ree
+104;Lithuania;Metals;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+105;Lithuania;Rare earth compounds;8.0;3.0;14.0;11.0;10.0;11.0;nan;nan;nan;nan;nan;i;ree
+106;Luxembourg;Ferro-cerium&other pyrophoric alloys;0.0;0.0;11.0;0.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+107;Luxembourg;Rare earth compounds;1.0;2.0;2.0;5.0;2.0;1.0;183.0;5.0;2.0;0.0;2.0;i;ree
+108;Netherlands;Cerium compounds;278.0;71.0;88.0;223.0;401.0;269.0;454.0;711.0;1492.0;274.0;263.0;i;ree
+109;Netherlands;Ferro-cerium&other pyrophoric alloys;4.0;6.0;2.0;1.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+110;Netherlands;Metals;261.0;200.0;48.0;18.0;99.0;75.0;296.0;267.0;355.0;321.0;277.0;i;ree
+111;Netherlands;Other rare earth compounds;2766.0;1100.0;568.0;173.0;742.0;878.0;628.0;315.0;324.0;546.0;473.0;i;ree
+112;North Macedonia;Cerium compounds;nan;nan;nan;nan;7.0;31.0;123.0;219.0;72.0;20.0;33.0;i;ree
+113;North Macedonia;Other rare earth compounds;nan;nan;nan;nan;0.0;0.0;0.0;0.0;160.0;204.0;248.0;i;ree
+114;Norway;Cerium compounds;7.0;9.0;1.0;13.0;nan;nan;3.0;1.0;1.0;11.0;1.0;i;ree
+115;Norway;Metals;341.0;24.0;148.0;552.0;438.0;439.0;361.0;388.0;417.0;427.0;765.0;i;ree
+116;Norway;Other rare earth compounds;1.0;0.0;8.0;9.0;nan;nan;11.0;16.0;45.0;15.0;71.0;i;ree
+117;Norway;Rare earth compounds;nan;nan;nan;nan;12.0;17.0;nan;nan;nan;nan;nan;i;ree
+118;Poland;Cerium compounds;148.0;43.0;134.0;86.0;68.0;104.0;184.0;167.0;325.0;629.0;1364.0;i;ree
+119;Poland;Metals;0.0;2.0;5.0;0.0;2.0;27.0;2.0;108.0;556.0;52.0;22.0;i;ree
+120;Poland;Other rare earth compounds;58.0;16.0;48.0;32.0;13.0;13.0;14.0;19.0;20.0;33.0;38.0;i;ree
+121;Portugal;Cerium compounds;15.0;11.0;7.0;8.0;7.0;6.0;1.0;3.0;2.0;1.0;1.0;i;ree
+122;Portugal;Metals;0.0;nan;1.0;87.0;nan;nan;1.0;1.0;1.0;33.0;476.0;i;ree
+123;Portugal;Other rare earth compounds;7.0;2.0;5.0;18.0;3.0;3.0;3.0;5.0;3.0;3.0;5.0;i;ree
+124;Romania;Rare earth compounds;6.0;5.0;5.0;1.0;2.0;1.0;4.0;3.0;5.0;2.0;2.0;i;ree
+125;Serbia;Cerium compounds;nan;nan;nan;nan;1.0;1.0;nan;nan;nan;nan;nan;i;ree
+126;Serbia;Metals;nan;nan;nan;nan;nan;nan;nan;nan;3.0;1.0;6.0;i;ree
+127;Serbia;Rare earth compounds;nan;nan;nan;nan;nan;nan;2.0;3.0;5.0;3.0;6.0;i;ree
+128;Slovakia;Metals;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+129;Slovakia;Rare earth compounds;5.0;8.0;8.0;10.0;7.0;10.0;9.0;9.0;10.0;10.0;12.0;i;ree
+130;Slovenia;Cerium compounds;nan;nan;nan;nan;nan;nan;1.0;2.0;12.0;9.0;13.0;i;ree
+131;Slovenia;Metals;88.0;55.0;98.0;26.0;55.0;61.0;65.0;85.0;81.0;96.0;69.0;i;ree
+132;Slovenia;Other rare earth compounds;nan;nan;nan;nan;nan;nan;12.0;7.0;2.0;1.0;1.0;i;ree
+133;Slovenia;Rare earth compounds;3.0;2.0;3.0;3.0;9.0;5.0;nan;nan;nan;nan;nan;i;ree
+134;Spain;Cerium compounds;444.0;443.0;543.0;636.0;455.0;729.0;457.0;256.0;235.0;356.0;329.0;i;ree
+135;Spain;Ferro-cerium&other pyrophoric alloys;15.0;19.0;41.0;33.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+136;Spain;Metals;274.0;108.0;421.0;9.0;19.0;93.0;296.0;529.0;395.0;276.0;454.0;i;ree
+137;Spain;Other rare earth compounds;270.0;140.0;216.0;102.0;155.0;438.0;266.0;266.0;318.0;414.0;196.0;i;ree
+138;Sweden;Cerium compounds;59.0;47.0;47.0;55.0;31.0;1.0;1.0;3.0;3.0;1.0;3.0;i;ree
+139;Sweden;Metals;46.0;28.0;37.0;48.0;72.0;62.0;52.0;47.0;41.0;41.0;33.0;i;ree
+140;Sweden;Other rare earth compounds;8.0;8.0;7.0;9.0;16.0;37.0;21.0;20.0;4.0;7.0;15.0;i;ree
+141;Switzerland;Cerium compounds;16.0;15.0;31.0;18.0;15.0;11.0;14.0;35.0;16.0;9.0;13.0;i;ree
+142;Switzerland;Ferro-cerium&other pyrophoric alloys;6.0;44.0;nan;5.0;nan;nan;nan;nan;nan;nan;nan;i;ree
+143;Switzerland;Metals;nan;1.0;4.0;5.0;21.0;11.0;5.0;3.0;0.0;1.0;0.0;i;ree
+144;Switzerland;Other rare earth compounds;18.0;15.0;16.0;12.0;17.0;40.0;38.0;45.0;46.0;78.0;114.0;i;ree
+145;Turkey;Cerium compounds;310.0;200.0;233.0;128.0;120.0;160.0;103.0;115.0;205.0;108.0;194.0;i;ree
+146;Turkey;Ferro-cerium&other pyrophoric alloys;12.0;10.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;ree
+147;Turkey;Metals;9.0;9.0;14.0;13.0;10.0;5.0;8.0;9.0;3.0;4.0;4.0;i;ree
+148;Turkey;Other rare earth compounds;5.0;4.0;13.0;8.0;4.0;11.0;11.0;27.0;18.0;30.0;51.0;i;ree
+149;United Kingdom;Cerium compounds;2067.0;612.0;1119.0;1713.0;485.0;633.0;603.0;693.0;502.0;1302.0;437.0;i;ree
+150;United Kingdom;Ferro-cerium&other pyrophoric alloys;57.0;148.0;150.0;79.0;nan;nan;28.0;29.0;67.0;41.0;1.0;i;ree
+151;United Kingdom;Metals;133.0;99.0;119.0;79.0;65.0;128.0;127.0;42.0;10.0;6.0;0.0;i;ree
+152;United Kingdom;Other rare earth compounds;251.0;103.0;322.0;629.0;518.0;654.0;591.0;565.0;341.0;628.0;499.0;i;ree
+153;Australia;nan;nan;nan;0.0;nan;nan;nan;nan;nan;nan;nan;nan;p;ree
+154;Brazil;Monazite;834.0;303.0;249.0;290.0;206.0;0.0;0.0;nan;nan;nan;nan;p;ree
+155;Burundi;nan;nan;nan;nan;nan;nan;0.0;0.0;0.0;0.0;50.0;1075.0;p;ree
+156;China;nan;125000.0;129000.0;120000.0;105000.0;100000.0;nan;nan;nan;nan;nan;nan;p;ree
+157;India;Monazite;22.0;16.0;nan;nan;nan;491.0;2825.0;1500.0;nan;nan;nan;p;ree
+158;Malaysia;Monazite;233.0;25.0;622.0;571.0;113.0;261.0;372.0;499.0;1875.0;302.0;86.0;p;ree
+159;Malaysia;Xenotime;0.0;0.0;110.0;208.0;66.0;97.0;83.0;66.0;4.0;0.0;1568.0;p;ree
+160;Russia;Loparite;nan;6628.0;5120.0;6226.0;6712.0;7485.0;7700.0;8509.0;8756.0;8928.0;9224.0;p;ree
+161;USA;Bastnaesite;0.0;0.0;0.0;0.0;3000.0;5500.0;5400.0;5900.0;0.0;0.0;18000.0;p;ree
+162;Australia;oxides;0.0;0.0;0.0;2188.0;2612.0;970.0;3965.0;8799.0;12631.0;16003.0;17754.0;p;ree
+163;Brazil;oxides;540.0;200.0;160.0;188.0;134.0;nan;nan;nan;nan;nan;nan;p;ree
+164;Burma;oxides;nan;nan;nan;nan;nan;100.0;300.0;400.0;4500.0;20000.0;34000.0;p;ree
+165;China;oxides;124500.0;129400.0;118900.0;105000.0;100000.0;95000.0;139000.0;139000.0;140000.0;140000.0;180000.0;p;ree
+166;India;oxides;22.0;16.0;nan;nan;nan;319.0;1836.0;956.0;2265.0;2724.0;4215.0;p;ree
+167;Madagascar;oxides;nan;nan;nan;nan;nan;nan;nan;nan;0.0;0.0;2000.0;p;ree
+168;Malaysia;oxides;150.0;20.0;471.0;498.0;114.0;229.0;292.0;365.0;1221.0;196.0;1012.0;p;ree
+169;Russia;oxides;2470.0;1898.0;1496.0;1444.0;2131.0;1443.0;2134.0;2312.0;3063.0;2500.0;2596.0;p;ree
+170;Thailand;oxides;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;p;ree
+171;USA;oxides;0.0;0.0;0.0;0.0;1800.0;3300.0;3240.0;3540.0;0.0;0.0;10800.0;p;ree
+172;Vietnam;oxides;nan;nan;nan;0.0;0.0;100.0;0.0;250.0;220.0;200.0;920.0;p;ree

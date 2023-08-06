@@ -1,0 +1,83 @@
+<div class="heatmapVisComponent">
+
+  <mat-toolbar class="upperLine">
+    <button mat-icon-button (click)="drawer.toggle()"><mat-icon>menu</mat-icon></button>
+    <span style='font-size:80%'>Countries and their CRMs</span>
+    <span class="spacer"></span>
+    <button mat-icon-button (click)="blockVis()"
+      matTooltip={{blockedToolTip}}><mat-icon>{{blockIcon}}</mat-icon></button>
+  </mat-toolbar>
+
+  <mat-drawer-container class="container" autosize>
+
+    <mat-drawer class="drawer" #drawer mode="side">
+
+      <div class="view">
+
+        <mat-chip-listbox class="mat-mdc-chip-set-stacked" aria-label="Fish selection">
+          <mat-chip-option [selected]="showActPersp" (selectionChange)="chooseVisAct($event.selected)">Activities View</mat-chip-option>
+          <mat-chip-option [selected]="showMatPersp" (selectionChange)="chooseVisMat($event.selected)">Materials View</mat-chip-option>
+        </mat-chip-listbox>
+
+      </div>
+
+      <div class="eip">
+        <mat-button-toggle-group [(ngModel)]="toFetchEIP" multiple>
+          <mat-button-toggle *ngFor="let c of eipList" [value]="c" (onCreate)="setAllIconVariables(c)"
+            [style.backgroundColor]="getOpacityEIP(c)" matTooltip={{fullnameEIP}}
+            (change)="changeFilters()">
+            {{iconEIP}}
+          </mat-button-toggle>
+        </mat-button-toggle-group>
+      </div>
+
+      <div class="countries">
+      <mat-accordion>
+        <mat-expansion-panel>
+          <mat-expansion-panel-header>
+            <mat-panel-title>
+              <mat-icon>add_location</mat-icon>
+              Countries
+            </mat-panel-title>
+            <mat-panel-description>
+            </mat-panel-description>
+          </mat-expansion-panel-header>
+
+          <mat-form-field>
+            <mat-label>Select countries</mat-label>
+            <mat-select [(ngModel)]="toFetchCountrs" multiple (ngModelChange)="changeFilters()">
+              <input class="countrySearch" placeholder="Search" (keyup)="onKey($event)">
+              <mat-option *ngFor="let state of countries" [value]="state" [disabled]="false"
+                [style.display]="selectedCountries.includes(state)? 'block' : 'none'">{{ state }}</mat-option>
+            </mat-select>
+          </mat-form-field>
+        </mat-expansion-panel>
+
+      </mat-accordion>
+      </div>
+
+    </mat-drawer>
+
+    <mat-drawer-content id="content">
+
+      <div id="heatMap" #heatMap (resized)="onheatMapResize($event)">
+
+        <svg id="heatMap_svg"></svg>
+
+        <div id="heatMap_toolTip" style="position: fixed; z-index: 10; visibility: hidden; top: 100px; left: 100px;" ></div>
+
+      </div>
+
+    </mat-drawer-content>
+
+
+
+  </mat-drawer-container>
+
+
+
+
+
+
+
+</div>

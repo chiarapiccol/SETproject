@@ -1,0 +1,108 @@
+#infoCard {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+
+  flex-direction: column;
+  box-sizing: border-box
+}
+
+#mat-info-card {
+  height: 100%;
+}
+
+.toolBarTitel {
+  height: 3vw;
+  width: 100%;
+}
+
+.toolBarTitel.mat-toolbar {
+  background: rgb(192, 192, 192, 1);
+  color: black;
+}
+
+.imgs {
+  width: 100%;
+}
+
+#matCardContent {
+  padding: 5%;
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.filterInfo {
+  flex-basis: 0;
+  flex-grow: 1;
+  flex-direction: column;
+  overflow: scroll;
+}
+
+.initializationInfo{
+  flex-basis: 0;
+  flex-grow: 1;
+  width: 100%;
+  overflow-x: auto;
+}
+
+
+.spiderInfo {
+  flex-basis: 0;
+  flex-grow: 1;
+  width: 100%;
+  overflow-x: auto;
+ }
+
+ .chartInfo {
+  flex-basis: 0;
+  flex-grow: 1;
+  width: 100%;
+  overflow-x: auto;
+ }
+
+ .plotInfo {
+  flex-basis: 0;
+  flex-grow: 1;
+  width: 100%;
+  overflow-x: auto;
+ }
+
+ .heatInfo {
+  flex-basis: 0;
+  flex-grow: 1;
+  width: 100%;
+  overflow-x: auto;
+ }
+ 
+ .mat-mdc-table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 5rem;
+  display: table;
+  border-collapse: collapse;
+  margin: 0px;
+ }
+ 
+ .mat-mdc-row,
+ .mat-mdc-header-row,
+ .mat-mdc-footer-row {
+  display: table-row;
+ }
+ 
+ .mat-mdc-cell,
+ .mat-mdc-header-cell,
+ .mat-mdc-footer-cell {
+  word-wrap: initial;
+  display: table-cell;
+  padding: 0px 5px 0px 10px;
+  line-break: unset;
+  width: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  vertical-align: middle;
+ }
+
+
+
+

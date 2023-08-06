@@ -1,0 +1,25 @@
+<div class="spiderVisComponent">
+
+  <mat-toolbar class="upperLine">
+    <span style='font-size:80%'>SET and their CRM</span>
+    <span class="spacer"></span>
+    <button mat-icon-button (click)="blockVis()" matTooltip={{toppTioIcon}}><mat-icon>{{blockIcon}}</mat-icon>
+    </button>
+  </mat-toolbar>
+
+
+  <div id="spiderDiagr" #spiderDiagr (window:resize)="onSpiderDiagrResize($event)">
+
+    <svg id="spiderDiagr_svg"></svg>
+
+    <div id="spiderDiagr_toolTip" 
+      style="position: absolute; z-index: 10; visibility: hidden; top: 100px; left: 100px;">
+    </div>
+
+    <div id="spiderDiagr_toolTipText"
+      style="position: absolute; z-index: 10; visibility: hidden; top: 100px; left: 100px;">
+    </div>
+
+  </div>
+
+</div>

@@ -1,0 +1,74 @@
+app:          
+  port: 5000
+  # health: "/health"
+  regcred: piccolroaz-miller-regcred
+
+  # turn off health checks for now:
+  readinessProbe: "null"
+  livenessProbe: "null"
+  
+  # readinessProbe: |
+  #   httpGet:
+  #     path: {{ .Values.app.health }}
+  #     port: {{ .Values.app.port }}
+  #   initialDelaySeconds: 10
+  #   timeoutSeconds: 5
+  #   periodSeconds: 5
+  #   failureThreshold: 3
+  #   successThreshold: 1
+  # livenessProbe: |
+  #   httpGet:
+  #     path: {{ .Values.app.health }}
+  #     port: {{ .Values.app.port }}
+  #   initialDelaySeconds: 10 
+  #   timeoutSeconds: 5
+  #   periodSeconds: 5
+  #   failureThreshold: 4
+  #   successThreshold: 1
+
+  
+  requests:
+    # 2 cores
+    cpu: 200m
+    memory: 2Gi
+  limits:
+    # 4 cores
+    cpu: 2000m
+    memory: 4Gi
+
+  extraEnv: |
+    - name: DB_USER
+      valueFrom:
+        secretKeyRef:
+          name: musicvis-passwords
+          key: DB_USER
+
+    - name: DB_PASSWORD
+      valueFrom:
+        secretKeyRef:
+          name: musicvis-passwords
+          key: DB_PASSWORD
+          
+    - name: DB_PASS
+      valueFrom:
+        secretKeyRef:
+          name: musicvis-passwords
+          key: DB_PASS
+
+    - name: DB_HOST
+      valueFrom:
+        secretKeyRef:
+          name: musicvis-passwords
+          key: DB_HOST
+
+    - name: DB_PORT
+      valueFrom:
+        secretKeyRef:
+          name: musicvis-passwords
+          key: DB_PORT
+
+    - name: DB_NAME
+      valueFrom:
+        secretKeyRef:
+          name: musicvis-passwords
+          key: DB_NAME

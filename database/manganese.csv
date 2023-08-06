@@ -1,0 +1,125 @@
+id;country;subCommodity;year2008;year2009;year2010;year2011;year2012;year2013;year2014;year2015;year2016;year2017;year2018;eip;mat
+1;Albania;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;0.0;nan;0.0;1228.0;e;manganese
+2;Austria;Metal;nan;nan;nan;nan;175.0;139.0;175.0;141.0;408.0;1162.0;1054.0;e;manganese
+3;Belgium;Metal;1947.0;714.0;1185.0;1625.0;1447.0;2959.0;4828.0;7802.0;7867.0;6937.0;4863.0;e;manganese
+4;Belgium;Ores&Concentrates;8578.0;5192.0;4444.0;9982.0;4236.0;7751.0;5003.0;4909.0;5364.0;12709.0;12040.0;e;manganese
+5;Bulgaria;Ores&Concentrates;17369.0;29715.0;163257.0;91110.0;76140.0;50390.0;73996.0;190874.0;79222.0;91517.0;44748.0;e;manganese
+6;Czech Republic;Ores&Concentrates;101.0;0.0;0.0;50.0;383.0;65.0;nan;nan;nan;nan;nan;e;manganese
+7;Denmark;Metal;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;manganese
+8;Denmark;Ores&Concentrates;nan;nan;nan;nan;35.0;44.0;1.0;1.0;237.0;518.0;389.0;e;manganese
+9;Estonia;Metal;226.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;manganese
+10;Estonia;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;1.0;0.0;0.0;463.0;e;manganese
+11;Finland;Metal;98.0;341.0;32.0;25.0;2.0;1.0;1179.0;1102.0;652.0;451.0;160.0;e;manganese
+12;France;Metal;488.0;631.0;717.0;805.0;1081.0;582.0;135.0;463.0;568.0;605.0;756.0;e;manganese
+13;France;Ores&Concentrates;321638.0;138787.0;152425.0;125827.0;118915.0;130333.0;36460.0;35326.0;124734.0;164011.0;52661.0;e;manganese
+14;Germany;Metal;12921.0;6727.0;8243.0;8907.0;13598.0;9758.0;10285.0;10672.0;9557.0;12818.0;10644.0;e;manganese
+15;Germany;Ores&Concentrates;3321.0;3710.0;4480.0;5035.0;4387.0;4114.0;3215.0;4055.0;4501.0;5978.0;6019.0;e;manganese
+16;Italy;Metal;494.0;326.0;716.0;963.0;897.0;600.0;470.0;562.0;870.0;678.0;1569.0;e;manganese
+17;Netherlands;Metal;19144.0;15642.0;38159.0;44310.0;29855.0;26866.0;27634.0;29496.0;37367.0;41557.0;39848.0;e;manganese
+18;Netherlands;Ores&Concentrates;19103.0;28701.0;21806.0;29097.0;27154.0;30072.0;29303.0;24805.0;10775.0;24908.0;23627.0;e;manganese
+19;Norway;Metal;1363.0;59.0;112.0;462.0;95.0;0.0;0.0;454.0;1197.0;1153.0;965.0;e;manganese
+20;Norway;Ores&Concentrates;10266.0;9214.0;10709.0;2600.0;39355.0;8211.0;2100.0;10645.0;12266.0;6002.0;19209.0;e;manganese
+21;Poland;Metal;35.0;603.0;2875.0;41.0;97.0;198.0;313.0;197.0;361.0;495.0;1184.0;e;manganese
+22;Poland;Ores&Concentrates;nan;nan;nan;nan;nan;nan;15.0;1.0;19.0;62161.0;112111.0;e;manganese
+23;Portugal;Metal;nan;nan;nan;nan;nan;nan;1.0;15.0;5.0;156.0;548.0;e;manganese
+24;Romania;Metal;6666.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;manganese
+25;Romania;Ores&Concentrates;nan;nan;nan;nan;9085.0;6623.0;23231.0;20008.0;7376.0;26948.0;23924.0;e;manganese
+26;Slovakia;Ores&Concentrates;nan;nan;0.0;7508.0;0.0;0.0;3029.0;5245.0;2543.0;1507.0;6374.0;e;manganese
+27;Slovenia;Metal;nan;nan;nan;nan;177.0;59.0;50.0;50.0;534.0;2537.0;3336.0;e;manganese
+28;Slovenia;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;manganese
+29;Spain;Metal;4562.0;3386.0;1297.0;1735.0;4665.0;3880.0;4106.0;5184.0;4276.0;4776.0;5655.0;e;manganese
+30;Spain;Ores&Concentrates;518.0;21456.0;707.0;623.0;621.0;5367.0;1537.0;9249.0;1081.0;716.0;650.0;e;manganese
+31;Sweden;Metal;nan;nan;nan;nan;64.0;108.0;271.0;825.0;782.0;720.0;601.0;e;manganese
+32;Turkey;Metal;401.0;81.0;4952.0;12.0;3535.0;1468.0;943.0;6.0;8.0;23.0;0.0;e;manganese
+33;Turkey;Ores&Concentrates;81280.0;59183.0;51731.0;100172.0;118953.0;310479.0;126140.0;15156.0;36164.0;30245.0;49410.0;e;manganese
+34;United Kingdom;Metal;3200.0;2200.0;2000.0;2100.0;1600.0;1200.0;700.0;900.0;1300.0;800.0;500.0;e;manganese
+35;United Kingdom;Ores&Concentrates;244.0;65.0;97.0;129.0;101.0;284.0;3983.0;517.0;419.0;375.0;497.0;e;manganese
+36;Austria;Metal;14275.0;11512.0;16696.0;21123.0;21692.0;20665.0;25822.0;16799.0;18376.0;24442.0;21501.0;i;manganese
+37;Austria;Ores&Concentrates;215.0;184.0;152.0;334.0;222.0;198.0;223.0;183.0;209.0;238.0;82.0;i;manganese
+38;Belgium;Metal;4423.0;3076.0;4377.0;5466.0;4636.0;5946.0;10178.0;10219.0;12600.0;11583.0;8679.0;i;manganese
+39;Belgium;Ores&Concentrates;83909.0;61980.0;49731.0;49393.0;50509.0;51271.0;49950.0;46116.0;49721.0;58473.0;51020.0;i;manganese
+40;Bulgaria;Ores&Concentrates;nan;20.0;5.0;133.0;0.0;7893.0;0.0;299.0;174.0;198.0;149.0;i;manganese
+41;Czech Republic;Metal;2542.0;2219.0;984.0;907.0;521.0;629.0;746.0;749.0;949.0;1235.0;1679.0;i;manganese
+42;Czech Republic;Ores&Concentrates;15715.0;16063.0;25758.0;28810.0;335.0;14189.0;18671.0;25003.0;7053.0;28107.0;34617.0;i;manganese
+43;Denmark;Ores&Concentrates;698.0;1158.0;257.0;1051.0;352.0;566.0;804.0;1190.0;787.0;1709.0;1276.0;i;manganese
+44;Estonia;Metal;478.0;168.0;576.0;85.0;nan;nan;24.0;0.0;50.0;75.0;387.0;i;manganese
+45;Estonia;Ores&Concentrates;nan;nan;nan;nan;0.0;nan;83.0;470.0;0.0;0.0;9.0;i;manganese
+46;Finland;Metal;2649.0;912.0;2134.0;2123.0;2144.0;1747.0;1818.0;1356.0;1709.0;1453.0;1185.0;i;manganese
+47;Finland;Ores&Concentrates;24926.0;12224.0;21961.0;3792.0;329.0;248.0;229.0;241.0;232.0;458.0;605.0;i;manganese
+48;France;Metal;19115.0;8905.0;17586.0;21186.0;9231.0;10304.0;11272.0;9209.0;9174.0;10446.0;14791.0;i;manganese
+49;France;Ores&Concentrates;876961.0;193684.0;721272.0;647182.0;562298.0;572043.0;308163.0;550636.0;550092.0;428061.0;381870.0;i;manganese
+50;Germany;Metal;47581.0;33989.0;43346.0;40705.0;35671.0;32039.0;34320.0;30085.0;36941.0;47369.0;50278.0;i;manganese
+51;Germany;Ores&Concentrates;14916.0;14645.0;17346.0;19137.0;18532.0;18872.0;17359.0;22536.0;17801.0;20039.0;21464.0;i;manganese
+52;Greece;Metal;nan;162.0;292.0;175.0;855.0;1029.0;1623.0;1211.0;1745.0;2221.0;1708.0;i;manganese
+53;Greece;Ores&Concentrates;51425.0;31776.0;22888.0;51374.0;26294.0;22943.0;22304.0;42186.0;42000.0;22063.0;18968.0;i;manganese
+54;Hungary;Metal;1185.0;280.0;336.0;461.0;500.0;589.0;659.0;539.0;570.0;604.0;478.0;i;manganese
+55;Hungary;Ores&Concentrates;293.0;220.0;198.0;159.0;142.0;304.0;229.0;181.0;29003.0;32902.0;23489.0;i;manganese
+56;Ireland, Republic of;Ores&Concentrates;75.0;65.0;54.0;9565.0;nan;nan;nan;nan;nan;nan;nan;i;manganese
+57;Italy;Metal;5839.0;3709.0;5788.0;5759.0;5804.0;6274.0;5095.0;4500.0;5018.0;6580.0;6578.0;i;manganese
+58;Italy;Ores&Concentrates;114289.0;77075.0;55284.0;81629.0;107907.0;27243.0;27243.0;2559.0;4334.0;4886.0;6449.0;i;manganese
+59;Latvia;Metal;nan;nan;nan;nan;nan;nan;5.0;3.0;55.0;672.0;66.0;i;manganese
+60;Latvia;Ores&Concentrates;nan;26.0;27.0;92.0;97.0;200.0;201.0;158.0;153.0;11.0;171.0;i;manganese
+61;Netherlands;Metal;35573.0;19083.0;50866.0;35618.0;40131.0;30706.0;25735.0;25656.0;39787.0;38406.0;39460.0;i;manganese
+62;Netherlands;Ores&Concentrates;10664.0;9398.0;23045.0;33555.0;63594.0;31841.0;34123.0;24854.0;27252.0;21463.0;27337.0;i;manganese
+63;North Macedonia;Ores&Concentrates;170455.0;nan;56893.0;110589.0;42109.0;503.0;nan;nan;nan;nan;nan;i;manganese
+64;Norway;Metal;2595.0;1297.0;1974.0;2697.0;1636.0;2158.0;1851.0;1358.0;1679.0;1764.0;1866.0;i;manganese
+65;Norway;Ores&Concentrates;1232799.0;525674.0;1121716.0;1085383.0;1072991.0;992832.0;1092278.0;1243083.0;1035145.0;1129135.0;1082458.0;i;manganese
+66;Poland;Metal;716.0;507.0;1514.0;436.0;764.0;1030.0;1378.0;1955.0;1961.0;1951.0;3193.0;i;manganese
+67;Poland;Ores&Concentrates;54087.0;1930.0;4345.0;4509.0;4951.0;5459.0;109877.0;137959.0;86725.0;109757.0;102596.0;i;manganese
+68;Portugal;Ores&Concentrates;765.0;nan;68.0;56.0;168.0;38.0;205.0;159.0;117.0;21.0;32.0;i;manganese
+69;Romania;Metal;646.0;527.0;220.0;588.0;415.0;517.0;698.0;1124.0;943.0;944.0;1062.0;i;manganese
+70;Romania;Ores&Concentrates;16432.0;16.0;87880.0;66285.0;244.0;13.0;nan;nan;nan;nan;nan;i;manganese
+71;Serbia;Metal;233.0;180.0;324.0;317.0;254.0;184.0;183.0;284.0;305.0;467.0;606.0;i;manganese
+72;Serbia;Ores&Concentrates;12981.0;16833.0;17003.0;14366.0;4229.0;5829.0;8780.0;1081.0;46.0;0.0;71.0;i;manganese
+73;Slovakia;Metal;350.0;395.0;442.0;659.0;228.0;207.0;304.0;363.0;475.0;828.0;711.0;i;manganese
+74;Slovakia;Ores&Concentrates;211653.0;74712.0;146434.0;130519.0;144936.0;127764.0;54955.0;33341.0;20311.0;48963.0;34183.0;i;manganese
+75;Slovenia;Metal;438.0;264.0;433.0;420.0;483.0;417.0;486.0;928.0;1386.0;4519.0;8215.0;i;manganese
+76;Spain;Metal;10033.0;3994.0;7510.0;10951.0;6470.0;7047.0;8461.0;9649.0;8822.0;9053.0;9521.0;i;manganese
+77;Spain;Ores&Concentrates;640677.0;54606.0;407450.0;508794.0;413613.0;542836.0;595513.0;439319.0;426716.0;557990.0;392013.0;i;manganese
+78;Sweden;Metal;3287.0;1880.0;3815.0;5241.0;3438.0;4838.0;5889.0;6305.0;7491.0;9111.0;7847.0;i;manganese
+79;Sweden;Ores&Concentrates;388.0;854.0;522.0;438.0;412.0;504.0;535.0;402.0;323.0;62.0;85.0;i;manganese
+80;Switzerland;Metal;472.0;282.0;556.0;509.0;490.0;385.0;284.0;316.0;274.0;247.0;376.0;i;manganese
+81;Switzerland;Ores&Concentrates;472.0;340.0;214.0;333.0;357.0;181.0;207.0;227.0;218.0;217.0;239.0;i;manganese
+82;Turkey;Metal;874.0;583.0;980.0;1202.0;863.0;1356.0;1890.0;1693.0;1731.0;2881.0;2448.0;i;manganese
+83;Turkey;Ores&Concentrates;2531.0;540.0;694.0;1295.0;534.0;529.0;565.0;528.0;395.0;493.0;711.0;i;manganese
+84;United Kingdom;Metal;8773.0;4123.0;6619.0;5444.0;3721.0;3796.0;3629.0;3083.0;3108.0;3490.0;3627.0;i;manganese
+85;United Kingdom;Ores&Concentrates;4133.0;941.0;1517.0;1656.0;1597.0;2168.0;3232.0;3045.0;2634.0;3689.0;3212.0;i;manganese
+86;Australia;Ores&Concentrates;4819000.0;4445000.0;6474000.0;6960769.0;7178975.0;7425985.0;7587207.0;6281497.0;5327566.0;6172266.0;7212118.0;p;manganese
+87;Bolivia;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;0.0;0.0;0.0;550.0;p;manganese
+88;Brazil;Ores&Concentrates;2400000.0;2320000.0;3125000.0;2738000.0;2796000.0;2833000.0;2723000.0;2816675.0;2880718.0;3273029.0;3189000.0;p;manganese
+89;Bulgaria;Ores&Concentrates;39100.0;28300.0;106000.0;85600.0;39100.0;103600.0;93700.0;46500.0;41700.0;2000.0;0.0;p;manganese
+90;Burkina Faso;Ores&Concentrates;0.0;0.0;57355.0;49715.0;0.0;0.0;0.0;nan;nan;nan;nan;p;manganese
+91;Burma;Ores&Concentrates;356000.0;607000.0;754000.0;586000.0;286000.0;394000.0;242000.0;70000.0;293000.0;346000.0;519000.0;p;manganese
+92;Chile;Ores&Concentrates;5096.0;1642.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;p;manganese
+93;China;Ores&Concentrates;11000000.0;12000000.0;13000000.0;20000000.0;20000000.0;17500000.0;15500000.0;13011000.0;15484000.0;11333000.0;7977000.0;p;manganese
+94;Colombia;Ores&Concentrates;nan;nan;nan;nan;540.0;773.0;682.0;324.0;0.0;0.0;470.0;p;manganese
+95;Congo, Democratic Republic;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;0.0;0.0;0.0;14884.0;p;manganese
+96;Egypt;Ores&Concentrates;16912.0;12500.0;37194.0;62388.0;40000.0;31325.0;22299.0;0.0;0.0;124794.0;120000.0;p;manganese
+97;Gabon;Ores&Concentrates;3250000.0;1992060.0;3200570.0;3831215.0;3363170.0;4091399.0;4081000.0;4184000.0;3423247.0;5079000.0;6542000.0;p;manganese
+98;Georgia;Ores&Concentrates;370000.0;370000.0;370000.0;370000.0;370000.0;370000.0;370000.0;370000.0;370000.0;370000.0;349354.0;p;manganese
+99;Ghana;Ores&Concentrates;1089025.0;1012941.0;1194074.0;1827692.0;1490634.0;1997911.0;1531394.0;1562769.0;2018254.0;3003580.0;4551754.0;p;manganese
+100;Hungary;Ores&Concentrates;49579.0;43000.0;55000.0;58000.0;51000.0;35000.0;51000.0;57000.0;19000.0;0.0;0.0;p;manganese
+101;India;Ores&Concentrates;2789025.0;2491950.0;3056385.0;2411871.0;2342169.0;2626291.0;2369481.0;2166947.0;2395134.0;2599815.0;2820227.0;p;manganese
+102;Indonesia;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;p;manganese
+103;Iran;Ores&Concentrates;115199.0;125506.0;131561.0;194428.0;172560.0;163367.0;139736.0;86523.0;78955.0;100780.0;128617.0;p;manganese
+104;Ivory Coast;Ores&Concentrates;148120.0;100000.0;87400.0;43600.0;120486.0;271562.0;308401.0;294904.0;200278.0;474879.0;930959.0;p;manganese
+105;Kazakhstan;Ores&Concentrates;2485000.0;2457400.0;3045000.0;2963000.0;2975000.0;2852100.0;2608800.0;1625700.0;1600700.0;1460000.0;1427300.0;p;manganese
+106;Kenya;Ores&Concentrates;nan;nan;nan;nan;nan;0.0;0.0;nan;nan;nan;nan;p;manganese
+107;Malaysia;Ores&Concentrates;536675.0;567963.0;899703.0;597917.0;1099585.0;1125127.0;835429.0;480727.0;700717.0;1226106.0;1262725.0;p;manganese
+108;Mali;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;p;manganese
+109;Mexico;Ores&Concentrates;477147.0;330328.0;466649.0;437264.0;510942.0;580309.0;652465.0;592728.0;549589.0;561612.0;556220.0;p;manganese
+110;Morocco;Ores&Concentrates;102285.0;51788.0;75614.0;58000.0;90200.0;111000.0;91271.0;71700.0;70138.0;99008.0;79538.0;p;manganese
+111;Namibia;Ores&Concentrates;28237.0;51471.0;35728.0;41876.0;188862.0;133474.0;104527.0;38360.0;16896.0;27915.0;23045.0;p;manganese
+112;Oman;Ores&Concentrates;nan;nan;nan;41300.0;37500.0;49000.0;37500.0;7400.0;21300.0;33900.0;44700.0;p;manganese
+113;Peru;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;0.0;2650.0;2500.0;46400.0;p;manganese
+114;Romania;Ores&Concentrates;43590.0;20304.0;13120.0;3180.0;8993.0;21300.0;12662.0;40262.0;4477.0;8000.0;26000.0;p;manganese
+115;Russia;Ores&Concentrates;nan;nan;nan;2600.0;8200.0;nan;nan;nan;nan;nan;nan;p;manganese
+116;South Africa;Ores&Concentrates;9327.0;10911.0;15407.0;15979.0;11943.0;22000.0;27000.0;nan;nan;nan;nan;p;manganese
+117;South Africa;Ores&Concentrates;6798187.0;4564855.0;7156338.0;8635863.0;8931472.0;10930000.0;13830000.0;nan;nan;nan;nan;p;manganese
+118;South Africa;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;15979170.0;13735509.0;14143794.0;14919207.0;p;manganese
+119;Sudan;Ores&Concentrates;0.0;500.0;0.0;0.0;0.0;3250.0;20000.0;9000.0;9800.0;4000.0;4000.0;p;manganese
+120;Thailand;Ores&Concentrates;111000.0;64930.0;50450.0;398.0;8151.0;14320.0;14330.0;9000.0;2750.0;8020.0;4000.0;p;manganese
+121;Turkey;Ores&Concentrates;nan;141246.0;134336.0;172480.0;192756.0;321785.0;245830.0;142809.0;46867.0;77895.0;85334.0;p;manganese
+122;Ukraine;Ores&Concentrates;1447000.0;932000.0;1589000.0;1391228.0;1234007.0;1524696.0;1526218.0;1477200.0;1328271.0;1758172.0;1845156.0;p;manganese
+123;Vietnam;Ores&Concentrates;nan;nan;82700.0;64600.0;15800.0;9700.0;10000.0;20700.0;13400.0;50000.0;68194.0;p;manganese
+124;Zambia;Ores&Concentrates;nan;nan;nan;nan;nan;nan;nan;140000.0;120000.0;92675.0;77277.0;p;manganese

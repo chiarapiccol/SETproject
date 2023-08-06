@@ -1,0 +1,110 @@
+<div class="firstComponent">
+
+    <div class="filterSankey_info_spider_Component">
+
+        <div class="filterSankey_info_Component">
+
+            <div class="filterSankey_Component">
+
+                <div class="filter_selectTechnologies">
+                    <div class="all_none_Tech">
+                        <mat-button-toggle (change)="check_allnone_Tech()" [style.backgroundColor]='color_allnone_Tech'
+                            matTooltip= "Sustainable energy technologies" matTooltipPosition="right">
+                            SET:
+                        </mat-button-toggle>
+                    </div>
+
+                    <div class="selectWhatever_Tech">
+                        <mat-button-toggle-group name="technologies" [(ngModel)]="checkedTech" multiple>
+                            <mat-button-toggle *ngFor="let c of techList" [value]="c"
+                                (onCreate)="setAllIconVariables('tech', c)" (change)="reCheck_allnone_Tech()"
+                                [style.backgroundColor]="getOpacityTech(c)" matTooltip={{fullnameTech}}
+                                (contextmenu)="onContextMenu($event, c)" matTooltipPosition="right"
+                                (mouseover)="hoveredTech(c)" (mouseout)="notHoveredTech(c)">
+                                <mat-icon>{{iconTech}}</mat-icon>
+                            </mat-button-toggle>
+                        </mat-button-toggle-group>
+                    </div>
+                </div>
+
+                <div class="sankey_Component">
+                    <div class="spaceForCalc"></div>
+                    <div class="spaceForSvg" id="sankeyDiagr" #sankeyDiagr (window:resize)="onSankeyRezise()"></div>
+                </div>
+
+                <div class="filter_selectMaterials">
+                    <div class="all_none_Mat">
+                        <mat-button-toggle (change)="check_allnone_Mat()" [style.backgroundColor]='color_allnone_Mat'
+                            matTooltip="Critical Raw Materials" matTooltipPosition="left">
+                            CRM:
+                        </mat-button-toggle>
+                    </div>
+
+                    <div class="selectWhatever_Mat">
+                        <mat-button-toggle-group name="materials" [(ngModel)]="checkedMat" multiple>
+                            <mat-button-toggle *ngFor="let c of matList" [value]="c"
+                                (onCreate)="setAllIconVariables('mat', c)" (change)="reCheck_allnone_Mat()"
+                                [style.backgroundColor]='getOpacityMat(c)' matTooltip={{fullnameMat}}
+                                matTooltipPosition="left" (contextmenu)="onContextMenu($event, c)"
+                                (mouseover)="hoveredMat(c)" (mouseout)="notHoveredMat(c)">
+                                {{iconMat}}
+                            </mat-button-toggle>
+                        </mat-button-toggle-group>
+                    </div>
+                </div>
+
+                <div style="visibility: hidden; position: fixed" [style.left]="contextMenuPosition.x"
+                    [style.top]="contextMenuPosition.y" [matMenuTriggerFor]="contextMenu">
+                </div>
+
+                <mat-menu #contextMenu="matMenu">
+                    <div [matTooltipDisabled]="!deactivateSelectRelated()" matTooltip='there are no related materials'>
+                        <button mat-menu-item [disabled]="deactivateSelectRelated()" (click)="selectRelated()">Select
+                            Relatives</button>
+                    </div>
+                </mat-menu>
+
+            </div>
+
+            <div class="infoComponent">
+                <div class="info">
+                    <app-infobox [showVis]="chooseVis"
+                        [showHoveredElement]="hoveredElem"
+                        [showDataSource]="tableInfo"
+                        [showOtherInfo]="otherInfo"></app-infobox>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="spiderComponent">
+
+            <div class="spider">
+                <app-spidervis [toFetchTech]="checkedTech" [toVisHeapMat]="heatVisMat" [toVisHeapAct]="heatVisAct" 
+                (spiderNameTable)="createNameTable_Spider($event)"></app-spidervis>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="mainVis">
+
+        <div class="countriesvis">
+            <app-pievis [toFetchTech]="checkedTech" [toFetchMat]="checkedMat" [toVisHeapMat]="heatVisMat" [toVisHeapAct]="heatVisAct" [toVisHeatCountr]="heatVisCountr"
+            (pieVisView)="setVisView($event)"
+            (pieChartNameTable)="createNameTable_pieChart($event)" 
+            (piePlotNameTable)="createNameTable_piePlot($event)"> </app-pievis>
+        </div>
+
+        <div class="heatmapvis">
+            <app-heapmap [toFetchTech]="checkedTech" [toFetchMat]="checkedMat" 
+            (chosenActMat)="createRectTooltip($event)"
+            (heatmapNameTable)="createNameTable_heatMap($event)"></app-heapmap>
+        </div>
+
+
+    </div>
+
+</div>

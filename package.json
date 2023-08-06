@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@angular-devkit/build-angular": "^16.0.0",
+    "@angular/cli": "^16.0.0",
+    "@material/form-field": "^14.0.0",
+    "golden-layout": "^2.6.0",
+    "npm": "^9.6.6"
+  }
+}

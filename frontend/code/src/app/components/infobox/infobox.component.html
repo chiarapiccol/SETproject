@@ -1,0 +1,136 @@
+<div id="infoCard">
+
+  <mat-card id="mat-info-card">
+
+    <mat-card-header style.backgroundColor={{hovered_color}}>
+
+      <mat-card-title-group>
+        <mat-card-title>{{hovered_infoTitel}}</mat-card-title>
+        <mat-card-subtitle>{{hovered_infoSubtitel}}</mat-card-subtitle>
+      </mat-card-title-group>
+
+    </mat-card-header>
+
+    <div class="initializationInfo" [hidden]=" show === 'initialization' ? false : true ">
+
+      <mat-card-content>
+        <html style="font-size:12px; text-align: justify">
+        {{hovered_content}}
+
+        </html>
+      </mat-card-content>
+
+    </div>
+
+    <div class="filterInfo" [hidden]=" show === 'filter' ? false : true "
+      [style.display]="show === 'filter' ? 'flex' : 'none'">
+
+      <img mat-card-image class="imgs" src={{hovered_foto}}>
+      <mat-card-content id="matCardContent">
+        <html style="font-size:12px; text-align: justify">
+        {{hovered_content}}
+
+        </html>
+      </mat-card-content>
+
+    </div>
+
+    <div class="spiderInfo" [hidden]=" show === 'spider' ? false : true">
+
+      <table class="informationBox_table_spider" mat-table [dataSource]="showDataSource" class="table">
+        <ng-container matColumnDef="Material">
+          <th mat-header-cell *matHeaderCellDef> Material </th>
+          <td mat-cell *matCellDef="let element"> {{element.material}} </td>
+          <td mat-footer-cell *matFooterCellDef> </td>
+        </ng-container>
+        <ng-container matColumnDef="Amount">
+          <th mat-header-cell *matHeaderCellDef> Amount </th>
+          <td mat-cell *matCellDef="let element"> {{element.value}} </td>
+          <td mat-footer-cell *matFooterCellDef> Total 100% </td>
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="showDataColumnsSpider"></tr>
+        <tr mat-row *matRowDef="let row; columns: showDataColumnsSpider;"></tr>
+        <tr mat-footer-row *matFooterRowDef="showDataColumnsSpider"></tr>
+      </table>
+
+    </div>
+
+
+    <div class="chartInfo" [hidden]=" show === 'pieChart' ? false : true ">
+
+      <table id="informationBox_table_chart" mat-table [dataSource]="showDataSource" class="table">
+        <ng-container matColumnDef="Nothing">
+          <th mat-header-cell *matHeaderCellDef> </th>
+          <td mat-cell *matCellDef="let element" style="font-weight: 500;"> {{element[0]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="xElement">
+          <th mat-header-cell *matHeaderCellDef> {{techODERmat}} </th>
+          <td mat-cell *matCellDef="let element"> {{element[1]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="All">
+          <th mat-header-cell *matHeaderCellDef> All {{techODERmat}}</th>
+          <td mat-cell *matCellDef="let element"> {{element[2]}} </td>
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="showDataColumnsPieChart"></tr>
+        <tr mat-row *matRowDef="let row; columns: showDataColumnsPieChart;"></tr>
+      </table>
+
+
+    </div>
+
+    <div class="plotInfo" [hidden]=" show === 'piePlot' ? false : true ">
+
+      <table class="informationBox_table_plot" mat-table [dataSource]="showDataSource" class="table">
+        <ng-container matColumnDef="Nothing">
+          <th mat-header-cell *matHeaderCellDef> </th>
+          <td mat-cell *matCellDef="let element" style="font-weight: 500;"> {{element[0]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="xCountry">
+          <th mat-header-cell *matHeaderCellDef> {{techODERmat}} </th>
+          <td mat-cell *matCellDef="let element"> {{element[1]}} </td>
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="showDataColumnsPiePlot"></tr>
+        <tr mat-row *matRowDef="let row; columns: showDataColumnsPiePlot;"></tr>
+      </table>
+
+    </div>
+
+    <div class="heatInfo" [hidden]=" show === 'heatMap' ? false : true ">
+
+      <table class="informationBox_table_plot" mat-table [dataSource]="showDataSource" class="table">
+        <ng-container matColumnDef="Nothing">
+          <th mat-header-cell *matHeaderCellDef> </th>
+          <td mat-cell *matCellDef="let element" style="font-weight: 500;"> {{element[0]}} </td>
+        </ng-container>
+        <ng-container matColumnDef="xMaterial">
+          <th mat-header-cell *matHeaderCellDef> {{techODERmat}} </th>
+          <td mat-cell *matCellDef="let element"> {{element[1]}} </td>
+        </ng-container>
+        <tr mat-header-row *matHeaderRowDef="showDataColumnsHeatMap"></tr>
+        <tr mat-row *matRowDef="let row; columns: showDataColumnsHeatMap;"></tr>
+      </table>
+
+    </div>
+
+
+
+
+
+
+
+  </mat-card>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>

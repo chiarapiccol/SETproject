@@ -1,0 +1,188 @@
+.firstComponent {
+    height: calc(100% - 2%);
+    width: calc(100% - 2%);
+    margin: 1%;
+    border: 1px solid black;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.filterSankey_info_spider_Component {
+    width: 30%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 1%;
+}
+
+.mainVis {
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.filterSankey_info_Component {
+    width: 100%;
+    height: 60%;
+
+    box-sizing: border-box;
+    padding: 0.5vw;
+
+    display: flex;
+    flex-direction: row;
+
+    gap: 1%;
+}
+
+.spiderComponent {
+    width: 100%;
+    height: 40%
+}
+
+.filterSankey_Component {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
+.infoComponent {
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+
+.info {
+    width: 100%;
+    height: 100%;
+}
+
+.filter_selectTechnologies {
+    height: 100%;
+    width: 20%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.all_none_Tech {
+    width: 100%;
+    height: 10%;
+    margin-bottom: 5%;
+}
+
+.all_none_Tech mat-button-toggle {
+    border-radius: 10%;
+    width: 100%;
+    height: calc(100%);
+    border-radius: 10%;
+    border: hidden;
+}
+
+.selectWhatever_Tech {
+    width: 100%;
+    height: 90%;
+}
+
+.selectWhatever_Tech mat-button-toggle-group {
+    height: 100%;
+    border: none;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.selectWhatever_Tech mat-button-toggle {
+    margin-top: 5%;
+    border-radius: 10%;
+    width: 100%;
+
+    flex-grow: 1;
+}
+
+.sankey_Component {
+    height: 100%;
+    width: 50%;
+}
+
+.spaceForCalc {
+    height: 10%;
+    width: 100%;
+}
+
+.spaceForSvg {
+    height: 90%;
+    flex-grow: 1;
+    padding-top: 5%;
+
+    box-sizing: border-box;
+}
+
+
+.filter_selectMaterials {
+    height: 100%;
+    width: 20%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.all_none_Mat {
+    width: 100%;
+    height: 10%;
+    margin-bottom: 5%;
+}
+
+.all_none_Mat mat-button-toggle {
+    border-radius: 10%;
+    width: 100%;
+    height: calc(100%);
+    border-radius: 10%;
+    border: hidden;
+}
+
+.selectWhatever_Mat {
+    width: 100%;
+    height: 90%;
+}
+
+.selectWhatever_Mat mat-button-toggle-group {
+    height: 100%;
+    border: none;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.selectWhatever_Mat mat-button-toggle {
+    margin-top: 5%;
+    border-radius: 10%;
+    width: 100%;
+
+    flex-grow: 1;
+}
+
+.spider {
+    width: 100%;
+    height: 100%;
+}
+
+.heatmapvis {
+    height: 100%;
+    width: 30%;
+}
+
+.countriesvis {
+    height: 100%;
+    width: 70%;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+}

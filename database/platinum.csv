@@ -1,0 +1,300 @@
+id;country;subCommodity;year2008;year2009;year2010;year2011;year2012;year2013;year2014;year2015;year2016;year2017;year2018;eip;mat
+1;Austria;Other platinum group metals;nan;nan;nan;nan;100.0;400.0;200.0;400.0;300.0;200.0;200.0;e;platinum
+2;Austria;Palladium;nan;nan;nan;nan;1400.0;1900.0;1200.0;1700.0;1600.0;1700.0;1500.0;e;platinum
+3;Austria;Platinum;nan;nan;nan;nan;1900.0;1500.0;1300.0;1100.0;1300.0;900.0;1500.0;e;platinum
+4;Austria;Platinum&platinum metals;nan;38485000.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;platinum
+5;Austria;Waste&scrap;nan;295000.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;platinum
+6;Belgium;Other platinum group metals;nan;nan;nan;nan;3224.0;2728.0;2888.0;2514.0;2064.0;2801.0;22412.0;e;platinum
+7;Belgium;Palladium;nan;nan;nan;nan;18689.0;13690.0;11897.0;12751.0;14221.0;15238.0;18120.0;e;platinum
+8;Belgium;Platinum;nan;nan;nan;nan;1200.0;800.0;260.0;384.0;290.0;564.0;2486.0;e;platinum
+9;Belgium;Platinum&platinum metals;8400.0;10700.0;7500.0;8900.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+10;Belgium;Waste&scrap;649800.0;315200.0;497000.0;218400.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+11;Bulgaria;Other platinum group metals;nan;nan;nan;nan;1.0;nan;nan;nan;nan;nan;nan;e;platinum
+12;Bulgaria;Palladium;nan;nan;nan;nan;10.0;3.0;7.0;1.0;1.0;3.0;0.0;e;platinum
+13;Bulgaria;Platinum;nan;nan;nan;nan;10.0;4.0;500.0;2.0;6.0;12.0;3.0;e;platinum
+14;Bulgaria;Platinum&platinum metals;nan;nan;1.0;15.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+15;Bulgaria;Waste&scrap;1400.0;44000.0;16000.0;23000.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+16;Croatia;Other platinum group metals;nan;nan;nan;nan;2.0;4.0;2.0;9.0;nan;1.0;0.0;e;platinum
+17;Croatia;Palladium;nan;nan;nan;nan;3.0;48.0;20.0;26.0;2.0;4.0;0.0;e;platinum
+18;Croatia;Platinum;nan;nan;nan;nan;13.0;100.0;39.0;43.0;12.0;13.0;4.0;e;platinum
+19;Croatia;Waste&scrap;27018.0;27959.0;53996.0;24958.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+20;Czech Republic;Other platinum group metals;nan;nan;nan;nan;0.0;0.0;0.0;138.0;25.0;108.0;21.0;e;platinum
+21;Czech Republic;Palladium;nan;nan;nan;nan;500.0;600.0;600.0;422.0;790.0;820.0;344.0;e;platinum
+22;Czech Republic;Platinum;nan;nan;nan;nan;2300.0;2900.0;130100.0;2751.0;2860.0;2530.0;1235.0;e;platinum
+23;Czech Republic;Platinum&platinum metals;3400.0;5200.0;6800.0;2900.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+24;Czech Republic;Waste&scrap;700.0;0.0;0.0;15300.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+25;Denmark;Other platinum group metals;nan;nan;nan;nan;6.0;5.0;34.0;1.0;0.0;3.0;1.0;e;platinum
+26;Denmark;Palladium;nan;nan;nan;nan;200.0;300.0;27.0;79.0;29.0;79.0;37.0;e;platinum
+27;Denmark;Platinum;nan;nan;nan;nan;14.0;300.0;300.0;173.0;264.0;290.0;58.0;e;platinum
+28;Denmark;Platinum&platinum metals;1.0;7000.0;200.0;100.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+29;Estonia;Palladium;nan;nan;nan;nan;3.0;200.0;200.0;0.0;0.0;2.0;1.0;e;platinum
+30;Estonia;Platinum;nan;nan;nan;nan;500.0;300.0;0.0;336.0;224.0;43.0;0.0;e;platinum
+31;Estonia;Platinum&platinum metals;nan;7.0;nan;0.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+32;Estonia;Waste&scrap;nan;800.0;7700.0;9100.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+33;Finland;Other platinum group metals;nan;nan;nan;nan;30.0;0.0;nan;nan;nan;nan;nan;e;platinum
+34;Finland;Palladium;nan;nan;nan;nan;1239.0;1543.0;1911.0;4970.0;3567.0;9522.0;13136.0;e;platinum
+35;Finland;Platinum;nan;nan;nan;nan;2658.0;6932.0;133.0;95.0;218.0;426.0;1.0;e;platinum
+36;Finland;Platinum&platinum metals;30.0;34126.0;6238.0;6684.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+37;Finland;Waste&scrap;218.0;267.0;723.0;75.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+38;France;Other platinum group metals;nan;nan;nan;nan;247.0;249.0;246.0;1006.0;100.0;96.0;309.0;e;platinum
+39;France;Palladium;nan;nan;nan;nan;10507.0;3032.0;5268.0;8362.0;6788.0;1854.0;8473.0;e;platinum
+40;France;Platinum;2033.0;1140.0;1884.0;2566.0;4139.0;4662.0;16425.0;18909.0;2848.0;38228.0;3364.0;e;platinum
+41;France;Platinum metals;2120.0;1396.0;914.0;1255.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+42;France;Waste&scrap;282400.0;609699.0;179798.0;270355.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+43;Germany;Other platinum group metals;nan;nan;nan;nan;21018.0;23890.0;23716.0;18984.0;16887.0;18731.0;18595.0;e;platinum
+44;Germany;Other platinum metals;24700.0;65029.0;33299.0;28158.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+45;Germany;Palladium;28600.0;43329.0;35462.0;43952.0;43524.0;44596.0;36703.0;27806.0;26426.0;30683.0;42300.0;e;platinum
+46;Germany;Platinum;27700.0;36204.0;24597.0;24994.0;23627.0;25030.0;25819.0;21929.0;21540.0;25388.0;33924.0;e;platinum
+47;Germany;Waste&scrap;3238800.0;3352271.0;5997852.0;6960588.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+48;Greece;Other platinum group metals;nan;nan;nan;nan;7.0;nan;nan;100.0;0.0;0.0;0.0;e;platinum
+49;Greece;Palladium;nan;nan;nan;nan;nan;nan;nan;nan;nan;0.0;1.0;e;platinum
+50;Greece;Platinum;nan;nan;nan;nan;876.0;37.0;1478.0;60.0;42.0;122.0;3.0;e;platinum
+51;Greece;Platinum&platinum metals;200.0;589.0;345.0;106.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+52;Greece;Waste&scrap;3400.0;nan;0.0;nan;nan;nan;nan;nan;nan;nan;nan;e;platinum
+53;Hungary;Other platinum group metals;nan;nan;nan;nan;4.0;6.0;7.0;4.0;13.0;6.0;0.0;e;platinum
+54;Hungary;Palladium;nan;nan;nan;nan;26.0;66.0;47.0;35.0;43.0;18.0;9.0;e;platinum
+55;Hungary;Platinum;nan;nan;nan;nan;113.0;46.0;9500.0;10906.0;3832.0;1789.0;14963.0;e;platinum
+56;Hungary;Platinum&platinum metals;nan;nan;211.0;158.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+57;Hungary;Waste&scrap;nan;nan;92300.0;91200.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+58;Ireland, Republic of;Other platinum group metals;nan;nan;nan;nan;0.0;69.0;43.0;47.0;136.0;23.0;39.0;e;platinum
+59;Ireland, Republic of;Palladium;nan;nan;nan;nan;13.0;87.0;425.0;1123.0;711.0;342.0;470.0;e;platinum
+60;Ireland, Republic of;Platinum;nan;nan;nan;nan;59.0;393.0;516.0;831.0;586.0;1345.0;369.0;e;platinum
+61;Ireland, Republic of;Platinum&platinum metals;nan;221.0;213.0;295.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+62;Ireland, Republic of;Waste&scrap;16854.0;8544.0;5440.0;1763.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+63;Italy;Other platinum group metals;nan;nan;nan;nan;4533.0;4922.0;7946.0;3922.0;4542.0;6949.0;14625.0;e;platinum
+64;Italy;Palladium;nan;nan;nan;nan;11726.0;18417.0;28374.0;23881.0;21655.0;26631.0;28111.0;e;platinum
+65;Italy;Platinum;13350.0;10043.0;10408.0;9982.0;10071.0;9791.0;12296.0;13338.0;25434.0;27713.0;26443.0;e;platinum
+66;Italy;Platinum metals;8295.0;8898.0;12684.0;14436.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+67;Italy;Waste&scrap;257.0;311.0;634.0;37750.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+68;Latvia;Palladium;nan;nan;nan;nan;nan;nan;nan;nan;nan;41.0;0.0;e;platinum
+69;Latvia;Platinum;nan;nan;nan;nan;53.0;0.0;64.0;19.0;30.0;19.0;10.0;e;platinum
+70;Lithuania;Palladium;nan;nan;nan;nan;nan;nan;nan;1.0;16.0;0.0;0.0;e;platinum
+71;Lithuania;Platinum;nan;nan;nan;nan;nan;nan;nan;0.0;10.0;10.0;0.0;e;platinum
+72;Lithuania;Waste&scrap;62710.0;101900.0;193600.0;126800.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+73;Luxembourg;Palladium;nan;nan;nan;nan;37.0;36.0;64.0;3269.0;7067.0;12214.0;113.0;e;platinum
+74;Luxembourg;Platinum;nan;nan;nan;nan;432.0;441.0;17.0;621.0;2368.0;9501.0;2079.0;e;platinum
+75;Luxembourg;Platinum&platinum metals;5800.0;149.0;243.0;197.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+76;Luxembourg;Waste&scrap;nan;24700.0;5600.0;16000.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+77;Malta;Platinum&platinum metals;nan;nan;nan;nan;nan;nan;nan;4.0;0.0;0.0;0.0;e;platinum
+78;Netherlands;Other platinum group metals;nan;nan;nan;nan;6.0;717.0;0.0;5.0;39.0;2.0;35.0;e;platinum
+79;Netherlands;Palladium;nan;nan;nan;nan;702.0;1173.0;275.0;972.0;328.0;315.0;312.0;e;platinum
+80;Netherlands;Platinum;nan;nan;14634000.0;nan;5363.0;3318.0;795.0;6835.0;7565.0;5195.0;1000.0;e;platinum
+81;Netherlands;Platinum metals;nan;nan;7953000.0;nan;nan;nan;nan;nan;nan;nan;nan;e;platinum
+82;Netherlands;Waste&scrap;352175.0;163160.0;1877.0;220.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+83;North Macedonia;Platinum;nan;nan;nan;nan;nan;nan;nan;0.0;1236.0;0.0;0.0;e;platinum
+84;Norway;Other platinum group metals;nan;nan;nan;nan;153.0;188.0;201.0;185.0;246.0;205.0;171.0;e;platinum
+85;Norway;Palladium;nan;nan;nan;nan;10311.0;7228.0;6386.0;6792.0;6582.0;5756.0;5866.0;e;platinum
+86;Norway;Platinum;nan;nan;nan;nan;3243.0;2672.0;2675.0;2804.0;4214.0;2423.0;2248.0;e;platinum
+87;Norway;Platinum&platinum metals;15393.0;12341.0;9714.0;11951.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+88;Norway;Waste&scrap;5119.0;35829.0;157937.0;36399.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+89;Poland;Other platinum group metals;nan;nan;nan;nan;100.0;31.0;31.0;24.0;14.0;37.0;39.0;e;platinum
+90;Poland;Palladium;nan;nan;nan;nan;113.0;213.0;147.0;217.0;331.0;413.0;393.0;e;platinum
+91;Poland;Platinum;nan;nan;nan;nan;300.0;900.0;900.0;602.0;668.0;732.0;469.0;e;platinum
+92;Poland;Platinum&platinum metals;7275.0;47400.0;1100.0;2400.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+93;Poland;Waste&scrap;7399.0;1600.0;300.0;3400.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+94;Portugal;Other platinum group metals;nan;nan;nan;nan;0.0;0.0;nan;175.0;312.0;0.0;1.0;e;platinum
+95;Portugal;Palladium;nan;nan;nan;nan;21.0;100.0;38.0;21.0;235.0;480.0;527.0;e;platinum
+96;Portugal;Platinum;nan;nan;nan;nan;25.0;19.0;121.0;111.0;407.0;16.0;5.0;e;platinum
+97;Portugal;Platinum&platinum metals;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;platinum
+98;Portugal;Waste&scrap;nan;0.0;nan;15100.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+99;Romania;Palladium;nan;nan;nan;nan;nan;nan;nan;nan;nan;0.0;nan;e;platinum
+100;Serbia;Other platinum group metals;nan;nan;nan;nan;nan;nan;1.0;0.0;1.0;0.0;0.0;e;platinum
+101;Serbia;Palladium;nan;nan;nan;nan;22.0;22.0;51.0;19.0;47.0;51.0;53.0;e;platinum
+102;Serbia;Platinum;nan;nan;nan;nan;5.0;5.0;5.0;5.0;5.0;5.0;7.0;e;platinum
+103;Slovakia;Other platinum group metals;nan;nan;nan;nan;25.0;22.0;41.0;16.0;2.0;31.0;4.0;e;platinum
+104;Slovakia;Palladium;nan;nan;nan;nan;3.0;400.0;500.0;202.0;143.0;71.0;2.0;e;platinum
+105;Slovakia;Platinum;nan;nan;nan;nan;29400.0;1400.0;1600.0;178806.0;1806.0;34140.0;23034.0;e;platinum
+106;Slovakia;Platinum&platinum metals;45800.0;1700.0;5800.0;84100.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+107;Slovakia;Waste&scrap;nan;423.0;111.0;764.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+108;Slovenia;Palladium;nan;nan;nan;nan;1.0;100.0;9.0;6.0;1.0;0.0;5.0;e;platinum
+109;Slovenia;Platinum;nan;nan;nan;nan;38.0;70.0;12.0;28.0;22.0;2.0;0.0;e;platinum
+110;Slovenia;Platinum&platinum metals;110.0;430.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;platinum
+111;Spain;Other platinum group metals;nan;nan;nan;nan;60.0;23577.0;15205.0;18481.0;64728.0;7770.0;7.0;e;platinum
+112;Spain;Palladium;nan;nan;nan;nan;556.0;140674.0;98347.0;110974.0;67816.0;75375.0;375.0;e;platinum
+113;Spain;Platinum;nan;nan;nan;nan;21273.0;303466.0;208957.0;255984.0;343219.0;126935.0;44164.0;e;platinum
+114;Spain;Platinum&platinum metals;3104.0;1672.0;2347.0;1255.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+115;Spain;Waste&scrap;88069.0;225411.0;291877.0;163420.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+116;Sweden;Other platinum group metals;nan;nan;nan;nan;0.0;1.0;1.0;100.0;381.0;57.0;158.0;e;platinum
+117;Sweden;Palladium;nan;nan;nan;nan;31.0;68.0;1.0;9.0;58.0;124.0;22.0;e;platinum
+118;Sweden;Platinum;nan;nan;nan;nan;100.0;25.0;100.0;400.0;450.0;87.0;42.0;e;platinum
+119;Sweden;Platinum&platinum metals;nan;177000.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;e;platinum
+120;Sweden;Waste&scrap;575300.0;40400.0;69000.0;43600.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+121;Switzerland;Other platinum group metals;nan;nan;nan;nan;896.0;1101.0;1305.0;1107.0;922.0;955.0;1883.0;e;platinum
+122;Switzerland;Other platinum metals;717.0;192.0;464.0;494.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+123;Switzerland;Palladium;86503.0;57571.0;70662.0;60859.0;56950.0;50029.0;42138.0;13019.0;13365.0;22671.0;16761.0;e;platinum
+124;Switzerland;Platinum;69404.0;61433.0;72006.0;63853.0;64331.0;53309.0;30715.0;17274.0;21577.0;17590.0;19860.0;e;platinum
+125;Switzerland;Waste&scrap;616867.0;362419.0;314061.0;289174.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+126;Turkey;Other platinum group metals;nan;nan;nan;nan;4.0;0.0;11.0;3.0;22.0;444.0;0.0;e;platinum
+127;Turkey;Palladium;nan;nan;nan;nan;10.0;1.0;5.0;3.0;190.0;34.0;1.0;e;platinum
+128;Turkey;Platinum;nan;nan;nan;nan;575.0;344.0;679.0;273.0;430.0;345.0;407.0;e;platinum
+129;Turkey;Platinum&platinum metals;18.0;3142.0;5124.0;2765.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+130;Turkey;Waste&scrap;330.0;9967.0;4491.0;5332.0;nan;nan;nan;nan;nan;nan;nan;e;platinum
+131;United Kingdom;Other platinum metals;22548.0;20044.0;23021.0;17319.0;18945.0;17843.0;20158.0;55027.0;60309.0;22683.0;51227.0;e;platinum
+132;United Kingdom;Palladium;47142.0;53091.0;42864.0;50917.0;55864.0;55322.0;60671.0;83787.0;90585.0;88727.0;83157.0;e;platinum
+133;United Kingdom;Platinum;40630.0;43177.0;24464.0;37836.0;55114.0;42712.0;74068.0;77849.0;119725.0;91286.0;95072.0;e;platinum
+134;United Kingdom;Waste&scrap;4278682.0;4273222.0;527862.0;287198.0;nan;nan;3815056.0;2607329.0;2811362.0;2265122.0;3149053.0;e;platinum
+135;Austria;Other platinum group metals;nan;nan;nan;nan;522.0;1193.0;976.0;4659.0;973.0;1103.0;1191.0;i;platinum
+136;Austria;Palladium;nan;nan;nan;nan;638.0;988.0;996.0;6557.0;5187.0;2165.0;1484.0;i;platinum
+137;Austria;Platinum;nan;nan;nan;nan;1035.0;1450.0;1111.0;1114.0;3105.0;2765.0;1800.0;i;platinum
+138;Austria;Platinum&platinum metals;700.0;1600.0;1400.0;4100.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+139;Austria;Waste&scrap;100.0;0.0;100.0;21400.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+140;Belgium;Other platinum group metals;nan;nan;nan;nan;243.0;2623.0;2200.0;1000.0;1200.0;7300.0;7975.0;i;platinum
+141;Belgium;Palladium;nan;nan;nan;nan;483.0;6491.0;367.0;761.0;268.0;503.0;47252.0;i;platinum
+142;Belgium;Platinum;nan;nan;nan;nan;2329.0;1304.0;839.0;1738.0;11200.0;43844.0;126220.0;i;platinum
+143;Belgium;Platinum&platinum metals;300.0;1200.0;5189.0;3763.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+144;Bulgaria;Other platinum group metals;nan;nan;nan;nan;35.0;8.0;0.0;15.0;19.0;0.0;0.0;i;platinum
+145;Bulgaria;Palladium;nan;nan;nan;nan;0.0;0.0;3.0;15.0;18.0;7.0;4.0;i;platinum
+146;Bulgaria;Platinum;nan;nan;nan;nan;3665.0;4.0;371.0;39.0;68.0;67.0;126.0;i;platinum
+147;Bulgaria;Platinum&platinum metals;613.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;platinum
+148;Croatia;Other platinum group metals;nan;nan;nan;nan;3.0;7.0;41.0;1.0;0.0;0.0;0.0;i;platinum
+149;Croatia;Palladium;nan;nan;nan;nan;6.0;58.0;100.0;2424.0;8.0;3.0;20.0;i;platinum
+150;Croatia;Platinum;nan;nan;nan;nan;16.0;146.0;52.0;165.0;1.0;0.0;21.0;i;platinum
+151;Cyprus;Other platinum group metals;nan;nan;nan;nan;0.0;0.0;0.0;0.0;3.0;3.0;5.0;i;platinum
+152;Cyprus;Palladium;nan;nan;nan;nan;22.0;20.0;9.0;11.0;12.0;5.0;6.0;i;platinum
+153;Cyprus;Platinum;nan;nan;nan;nan;5.0;4.0;1.0;1.0;9.0;3.0;3.0;i;platinum
+154;Cyprus;Platinum&platinum metals;400.0;nan;900.0;400.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+155;Czech Republic;Other platinum group metals;nan;nan;nan;nan;42.0;41.0;151.0;214.0;194.0;340.0;92.0;i;platinum
+156;Czech Republic;Palladium;nan;nan;nan;nan;100.0;300.0;500.0;413.0;603.0;1010.0;150.0;i;platinum
+157;Czech Republic;Platinum;42358.0;81500.0;25000.0;2100.0;13100.0;1200.0;1400.0;7135.0;805.0;2565.0;1069.0;i;platinum
+158;Czech Republic;Platinum metals;47932.0;600.0;17700.0;100.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+159;Czech Republic;Waste&scrap;4414.0;772.0;7835.0;54300.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+160;Denmark;Other platinum group metals;nan;nan;nan;nan;44.0;26.0;28.0;24.0;95.0;376.0;6604.0;i;platinum
+161;Denmark;Palladium;nan;nan;nan;nan;0.0;1200.0;0.0;544.0;320.0;2790.0;3899.0;i;platinum
+162;Denmark;Platinum;nan;nan;nan;nan;500.0;400.0;200.0;473.0;203.0;1797.0;3450.0;i;platinum
+163;Denmark;Platinum&platinum metals;6448.0;4699.0;2300.0;1367.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+164;Estonia;Platinum;nan;nan;nan;nan;0.0;1.0;6.0;343.0;192.0;43.0;0.0;i;platinum
+165;Estonia;Platinum&platinum metals;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;platinum
+166;Finland;Other platinum group metals;nan;nan;nan;nan;4.0;2.0;2.0;1.0;2.0;4.0;9.0;i;platinum
+167;Finland;Palladium;nan;nan;nan;nan;159.0;30.0;150.0;478.0;244.0;99.0;58.0;i;platinum
+168;Finland;Platinum;nan;nan;nan;nan;47.0;59.0;94.0;36.0;29.0;15.0;13.0;i;platinum
+169;Finland;Platinum&platinum metals;nan;284.0;385.0;356.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+170;France;Other platinum group metals;nan;nan;nan;nan;3369.0;1314.0;950.0;2272.0;1593.0;5747.0;7023.0;i;platinum
+171;France;Other platinum metals;nan;171.0;300.0;270.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+172;France;Palladium;nan;5177.0;2706.0;25607.0;7919.0;10272.0;10355.0;7662.0;4002.0;8524.0;18788.0;i;platinum
+173;France;Platinum;8471.0;3633.0;4516.0;4010.0;4606.0;43645.0;6628.0;13192.0;24180.0;49917.0;11012.0;i;platinum
+174;France;Platinum metals;4404.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;platinum
+175;France;Waste&scrap;241200.0;359138.0;143885.0;296178.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+176;Germany;Other platinum group metals;nan;nan;nan;nan;18444.0;15626.0;15963.0;11234.0;11483.0;12438.0;12181.0;i;platinum
+177;Germany;Other platinum metals;6400.0;12120.0;19655.0;21319.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+178;Germany;Palladium;55100.0;47092.0;53479.0;50926.0;47449.0;41511.0;43339.0;41465.0;45645.0;74878.0;91745.0;i;platinum
+179;Germany;Platinum;47100.0;42452.0;40983.0;38019.0;32874.0;33128.0;38066.0;53212.0;55470.0;57638.0;50035.0;i;platinum
+180;Germany;Waste&scrap;10983600.0;6224314.0;8069744.0;7290427.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+181;Greece;Other platinum group metals;nan;nan;nan;nan;500.0;400.0;53.0;2.0;0.0;1.0;2.0;i;platinum
+182;Greece;Palladium;nan;nan;nan;nan;13.0;75.0;27.0;52.0;11.0;70.0;350.0;i;platinum
+183;Greece;Platinum;nan;nan;nan;nan;400.0;23.0;103.0;30.0;75.0;73.0;46.0;i;platinum
+184;Greece;Platinum&platinum metals;300.0;100.0;500.0;1400.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+185;Hungary;Other platinum group metals;nan;nan;nan;nan;2.0;0.0;1.0;48.0;13.0;6.0;0.0;i;platinum
+186;Hungary;Palladium;nan;nan;nan;nan;4.0;0.0;11.0;1.0;2.0;17.0;0.0;i;platinum
+187;Hungary;Platinum;nan;nan;nan;nan;107.0;38.0;17.0;6.0;151.0;9.0;74.0;i;platinum
+188;Hungary;Platinum&platinum metals;453.0;26.0;1300.0;84.0;113.0;nan;nan;nan;nan;nan;nan;i;platinum
+189;Iceland;Other platinum group metals;nan;nan;nan;nan;0.0;38.0;52.0;1.0;0.0;4.0;31.0;i;platinum
+190;Iceland;Palladium;nan;nan;nan;nan;131.0;126.0;97.0;58.0;406.0;79.0;59.0;i;platinum
+191;Iceland;Platinum;nan;nan;nan;nan;19.0;2.0;1.0;11.0;3.0;13.0;18.0;i;platinum
+192;Iceland;Platinum&platinum metals;162.0;158.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;platinum
+193;Ireland, Republic of;Other platinum group metals;nan;nan;nan;nan;126.0;600.0;311.0;471.0;486.0;544.0;272.0;i;platinum
+194;Ireland, Republic of;Palladium;nan;nan;nan;nan;1217.0;5263.0;41232.0;6170.0;29742.0;11820.0;5732.0;i;platinum
+195;Ireland, Republic of;Platinum;nan;nan;nan;nan;1339.0;4833.0;6314.0;6990.0;6986.0;5240.0;4957.0;i;platinum
+196;Ireland, Republic of;Platinum&platinum metals;2185.0;121381.0;9470.0;7826.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+197;Italy;Other platinum group metals;nan;nan;nan;nan;1244.0;782.0;3203.0;2224.0;2230.0;3486.0;5381.0;i;platinum
+198;Italy;Other platinum metals;2426.0;1909.0;1694.0;1084.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+199;Italy;Palladium;20593.0;13047.0;10019.0;9171.0;7855.0;6411.0;11765.0;17478.0;24843.0;22748.0;24115.0;i;platinum
+200;Italy;Platinum;16570.0;13627.0;12545.0;10630.0;7417.0;8436.0;15766.0;12857.0;25064.0;32371.0;27763.0;i;platinum
+201;Italy;Waste&scrap;7646.0;8178.0;16918.0;1468.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+202;Latvia;Other platinum group metals;nan;nan;nan;nan;0.0;106.0;4.0;22.0;0.0;0.0;2.0;i;platinum
+203;Latvia;Palladium;nan;nan;nan;nan;0.0;0.0;1.0;10.0;0.0;48.0;0.0;i;platinum
+204;Latvia;Platinum;nan;nan;nan;nan;200.0;3.0;47.0;22.0;93.0;36.0;12.0;i;platinum
+205;Latvia;Waste&scrap;2842.0;3900.0;400.0;nan;nan;nan;nan;nan;nan;nan;nan;i;platinum
+206;Lithuania;Other platinum group metals;nan;nan;nan;nan;9.0;1.0;1.0;10.0;0.0;4.0;0.0;i;platinum
+207;Lithuania;Palladium;nan;nan;nan;nan;0.0;0.0;0.0;16.0;0.0;0.0;1.0;i;platinum
+208;Lithuania;Platinum;nan;nan;nan;nan;1.0;0.0;0.0;60.0;10.0;33.0;45.0;i;platinum
+209;Lithuania;Waste&scrap;40800.0;22700.0;76400.0;64600.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+210;Luxembourg;Other platinum group metals;nan;nan;nan;nan;36.0;33.0;2.0;5.0;158.0;26.0;4.0;i;platinum
+211;Luxembourg;Palladium;nan;nan;nan;nan;140.0;99.0;97.0;1814.0;2965.0;4283.0;147.0;i;platinum
+212;Luxembourg;Platinum;nan;nan;nan;nan;153.0;169.0;1699.0;1105.0;2646.0;2762.0;2741.0;i;platinum
+213;Luxembourg;Platinum&platinum metals;1410.0;1702.0;1633.0;438.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+214;Malta;Other platinum group metals;nan;nan;nan;nan;200.0;6.0;100.0;7.0;13.0;0.0;0.0;i;platinum
+215;Malta;Palladium;nan;nan;nan;nan;0.0;2.0;0.0;4.0;5.0;1.0;0.0;i;platinum
+216;Malta;Platinum;nan;nan;nan;nan;200.0;11.0;0.0;7.0;20.0;19.0;14.0;i;platinum
+217;Montenegro;Other platinum group metals;nan;nan;nan;nan;0.0;0.0;0.0;0.0;1000.0;0.0;0.0;i;platinum
+218;Montenegro;Platinum&platinum metals;nan;nan;nan;nan;nan;nan;nan;nan;nan;0.0;0.0;i;platinum
+219;Netherlands;Other platinum group metals;nan;nan;nan;nan;200.0;400.0;500.0;53.0;493.0;177.0;102.0;i;platinum
+220;Netherlands;Palladium;nan;nan;nan;nan;500.0;200.0;100.0;685.0;351.0;242.0;1606.0;i;platinum
+221;Netherlands;Platinum;nan;nan;nan;nan;1742.0;2221.0;2139.0;3290.0;602.0;405.0;1651.0;i;platinum
+222;Netherlands;Waste&scrap;40.0;111.0;260515.0;411332.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+223;North Macedonia;Palladium;nan;nan;nan;nan;3250.0;5050.0;6500.0;5600.0;9131.0;8850.0;11021.0;i;platinum
+224;North Macedonia;Platinum;nan;nan;nan;nan;6660.0;8393.0;14719.0;17958.0;21031.0;23014.0;23867.0;i;platinum
+225;North Macedonia;Platinum&platinum metals;0.0;0.0;2420.0;7649.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+226;Norway;Other platinum group metals;nan;nan;nan;nan;47.0;86.0;131.0;174.0;242.0;168.0;455.0;i;platinum
+227;Norway;Palladium;nan;nan;nan;nan;533.0;555.0;474.0;777.0;568.0;347.0;334.0;i;platinum
+228;Norway;Platinum;nan;nan;nan;nan;178.0;314.0;208.0;322.0;360.0;458.0;338.0;i;platinum
+229;Norway;Platinum&platinum metals;1072.0;1005.0;1425.0;1430.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+230;Norway;Waste&scrap;1093.0;930.0;1362.0;1160.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+231;Poland;Other platinum group metals;nan;nan;nan;nan;1100.0;0.0;83.0;44.0;282.0;342.0;535.0;i;platinum
+232;Poland;Palladium;nan;nan;nan;nan;100.0;100.0;998.0;1722.0;1439.0;1995.0;3198.0;i;platinum
+233;Poland;Platinum;nan;nan;nan;nan;600.0;200.0;276.0;380.0;1421.0;3204.0;2360.0;i;platinum
+234;Poland;Platinum&platinum metals;16900.0;31300.0;5100.0;2700.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+235;Poland;Waste&scrap;nan;36.0;19.0;1.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+236;Portugal;Other platinum group metals;nan;nan;nan;nan;300.0;18.0;35.0;203.0;343.0;23.0;21.0;i;platinum
+237;Portugal;Palladium;nan;nan;nan;nan;337.0;322.0;169.0;159.0;328.0;413.0;378.0;i;platinum
+238;Portugal;Platinum;nan;nan;nan;nan;152.0;35.0;103.0;104.0;435.0;29.0;13.0;i;platinum
+239;Portugal;Platinum&platinum metals;308.0;146.0;796.0;245.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+240;Serbia;Other platinum group metals;nan;nan;nan;nan;0.0;0.0;0.0;3.0;3.0;4.0;4.0;i;platinum
+241;Serbia;Palladium;nan;nan;nan;nan;0.0;0.0;0.0;0.0;1.0;1.0;2.0;i;platinum
+242;Serbia;Platinum;nan;nan;nan;nan;20.0;944.0;28.0;27.0;20.0;11.0;38.0;i;platinum
+243;Slovakia;Other platinum group metals;nan;nan;nan;nan;20.0;25.0;8100.0;16.0;3.0;10.0;6.0;i;platinum
+244;Slovakia;Palladium;58.0;1191.0;2702.0;4400.0;4800.0;500.0;3300.0;783.0;962.0;78.0;42.0;i;platinum
+245;Slovakia;Platinum;1573351.0;1533869.0;1625761.0;2662700.0;2340400.0;1545300.0;101800.0;101800.0;556851.0;41330.0;103139.0;i;platinum
+246;Slovenia;Other platinum group metals;nan;nan;nan;nan;2.0;22.0;nan;nan;nan;nan;nan;i;platinum
+247;Slovenia;Palladium;nan;nan;nan;nan;89.0;106.0;43.0;43.0;42.0;31.0;29.0;i;platinum
+248;Slovenia;Platinum;nan;nan;nan;nan;33.0;100.0;69.0;14.0;7.0;12.0;14.0;i;platinum
+249;Spain;Other platinum group metals;nan;nan;nan;nan;117.0;120.0;19242.0;287.0;1495.0;97.0;48.0;i;platinum
+250;Spain;Palladium;nan;nan;nan;nan;3050.0;3119.0;23538.0;870.0;791.0;7113.0;3876.0;i;platinum
+251;Spain;Platinum;nan;nan;nan;nan;31454.0;4451.0;2670.0;2069.0;3156.0;2749.0;5000.0;i;platinum
+252;Spain;Platinum&platinum metals;3900.0;3000.0;3500.0;3000.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+253;Spain;Waste&scrap;8947.0;29448.0;29183.0;17845.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+254;Sweden;Other platinum group metals;nan;nan;nan;nan;82.0;8.0;133.0;18.0;46.0;92.0;199.0;i;platinum
+255;Sweden;Palladium;nan;nan;nan;nan;156.0;383.0;517.0;304.0;179.0;239.0;285.0;i;platinum
+256;Sweden;Platinum;nan;nan;nan;nan;132.0;116.0;94.0;158.0;169.0;181.0;263.0;i;platinum
+257;Sweden;Waste&scrap;13800.0;80200.0;1500.0;19800.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+258;Switzerland;Other platinum group metals;nan;nan;nan;nan;1065.0;1488.0;1252.0;1149.0;1399.0;1735.0;2656.0;i;platinum
+259;Switzerland;Other platinum metals;1255.0;1319.0;813.0;873.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+260;Switzerland;Palladium;60666.0;50258.0;41454.0;43310.0;27123.0;28836.0;25681.0;23194.0;21510.0;26658.0;29879.0;i;platinum
+261;Switzerland;Platinum;67022.0;91048.0;49089.0;57415.0;39955.0;38007.0;25303.0;18632.0;20748.0;18172.0;22638.0;i;platinum
+262;Switzerland;Waste&scrap;494962.0;688973.0;912680.0;459360.0;nan;nan;nan;nan;nan;nan;nan;i;platinum
+263;Turkey;Other platinum group metals;nan;nan;nan;nan;36.0;216.0;181.0;172.0;222.0;68.0;113.0;i;platinum
+264;Turkey;Palladium;nan;nan;nan;nan;88.0;32.0;29.0;30.0;44.0;76.0;171.0;i;platinum
+265;Turkey;Platinum;nan;nan;nan;nan;116.0;106.0;124.0;127.0;126.0;145.0;156.0;i;platinum
+266;Turkey;Platinum&platinum metals;463.0;235.0;nan;nan;nan;nan;nan;nan;nan;nan;nan;i;platinum
+267;United Kingdom;Other platinum group metals;nan;nan;nan;nan;4374.0;6953.0;5339.0;27039.0;79073.0;23022.0;13779.0;i;platinum
+268;United Kingdom;Other platinum metals;5409.0;6713.0;9487.0;7768.0;nan;nan;5339.0;27039.0;79073.0;23022.0;13779.0;i;platinum
+269;United Kingdom;Palladium;32806.0;36652.0;73184.0;42167.0;59803.0;49348.0;34191.0;62036.0;216423.0;422282.0;47762.0;i;platinum
+270;United Kingdom;Platinum;29943.0;30339.0;58659.0;46092.0;54073.0;39973.0;51736.0;154548.0;204194.0;339359.0;83841.0;i;platinum
+271;United Kingdom;Waste&scrap;1416905.0;1100117.0;819769.0;1556736.0;nan;nan;838025.0;776883.0;340447.0;1281041.0;1194428.0;i;platinum
+272;Australia;Palladium;710.0;1034.0;781.0;445.0;706.0;786.0;766.0;533.0;762.0;765.0;541.0;mines;platinum
+273;Botswana;Palladium;2955.0;4728.0;2830.0;2115.0;2582.0;1337.0;560.0;156.0;nan;nan;nan;mines;platinum
+274;Botswana;Platinum;591.0;746.0;498.0;373.0;435.0;218.0;124.0;31.0;nan;nan;nan;mines;platinum
+275;Canada;Other platinum metals;1000.0;500.0;400.0;900.0;900.0;1100.0;1400.0;1400.0;1300.0;1100.0;1300.0;mines;platinum
+276;Canada;Palladium;14700.0;6900.0;6100.0;14400.0;14400.0;19800.0;21000.0;20800.0;19700.0;17100.0;19200.0;mines;platinum
+277;Canada;Platinum;8500.0;4000.0;3500.0;8300.0;8200.0;9700.0;12000.0;11900.0;11300.0;9800.0;11000.0;mines;platinum
+278;China;Palladium;700.0;700.0;700.0;850.0;750.0;850.0;1000.0;1200.0;1400.0;1400.0;1300.0;mines;platinum
+279;China;Platinum;1400.0;1400.0;1400.0;1600.0;1400.0;1600.0;1600.0;2300.0;2900.0;2500.0;2500.0;mines;platinum
+280;Colombia;nan;1370.0;929.0;997.0;1231.0;1460.0;1520.0;1142.0;861.0;917.0;567.0;270.0;mines;platinum
+281;Ethiopia;Platinum;10.0;8.0;1.0;1.0;nan;nan;0.0;5.0;5.0;4.0;4.0;mines;platinum
+282;Finland;Palladium;0.0;0.0;0.0;0.0;379.0;766.0;808.0;784.0;883.0;1021.0;1157.0;mines;platinum
+283;Finland;Platinum;0.0;0.0;0.0;0.0;429.0;946.0;1060.0;992.0;1154.0;1418.0;1576.0;mines;platinum
+284;Poland;Palladium;20.0;20.0;20.0;13.0;23.0;30.0;25.0;20.0;30.0;7.0;7.0;mines;platinum
+285;Poland;Platinum;30.0;30.0;30.0;23.0;39.0;51.0;40.0;40.0;50.0;11.0;8.0;mines;platinum
+286;Russia;Other platinum metals;2600.0;2200.0;2200.0;2100.0;2800.0;2600.0;2800.0;2500.0;2600.0;2400.0;2100.0;mines;platinum
+287;Russia;Palladium;113800.0;113100.0;115700.0;107500.0;89900.0;84000.0;81300.0;75500.0;78300.0;86300.0;85300.0;mines;platinum
+288;Russia;Platinum;25000.0;24400.0;26500.0;26500.0;24900.0;25000.0;22000.0;20800.0;20500.0;22100.0;23800.0;mines;platinum
+289;Serbia;Palladium;70.0;38.0;22.0;4.0;22.0;25.0;23.0;22.0;31.0;38.0;55.0;mines;platinum
+290;Serbia;Platinum;0.0;12.0;0.0;6.0;3.0;2.0;3.0;2.0;4.0;2.0;5.0;mines;platinum
+291;South Africa;Other platinum metals;54089.0;55456.0;57292.0;58111.0;51010.0;51156.0;36043.0;53699.0;54139.0;48895.0;52964.0;mines;platinum
+292;South Africa;Palladium;75537.0;75118.0;82222.0;82731.0;74738.0;76008.0;58410.0;82691.0;76273.0;80134.0;80629.0;mines;platinum
+293;South Africa;Platinum;146141.0;140819.0;147790.0;148008.0;128590.0;137024.0;93991.0;139125.0;133241.0;131247.0;137053.0;mines;platinum
+294;USA;Other platinum metals;nan;nan;nan;nan;nan;nan;124.0;96.0;103.0;100.0;100.0;mines;platinum
+295;USA;Palladium;11944.0;12659.0;11600.0;12400.0;12300.0;12600.0;12488.0;12532.0;13070.0;13600.0;14300.0;mines;platinum
+296;USA;Platinum;3577.0;3826.0;3450.0;3700.0;3670.0;3720.0;3660.0;3670.0;3890.0;3980.0;4160.0;mines;platinum
+297;Zimbabwe;Other platinum metals;928.0;1190.0;1536.0;2162.0;2090.0;2677.0;2667.0;2612.0;3093.0;3005.0;3076.0;mines;platinum
+298;Zimbabwe;Palladium;4274.0;5354.0;6916.0;8422.0;10524.0;10153.0;10138.0;10055.0;12222.0;11822.0;12094.0;mines;platinum
+299;Zimbabwe;Platinum;5495.0;6849.0;8639.0;10827.0;10524.0;13066.0;12483.0;12564.0;15110.0;14257.0;14703.0;mines;platinum
